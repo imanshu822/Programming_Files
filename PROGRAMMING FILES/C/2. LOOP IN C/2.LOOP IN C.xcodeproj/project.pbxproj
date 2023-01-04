@@ -1,0 +1,4134 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2B11BB9E2748AF14005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BB9D2748AF14005B389D /* main.c */; };
+		2B11BBA92748B0B5005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBA82748B0B5005B389D /* main.c */; };
+		2B11BBB42748B72C005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBB32748B72C005B389D /* main.c */; };
+		2B11BBBF2748B99B005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBBE2748B99B005B389D /* main.c */; };
+		2B11BBCA2748BA62005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBC92748BA62005B389D /* main.c */; };
+		2B11BBD52748BBCB005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBD42748BBCB005B389D /* main.c */; };
+		2B11BBE02748C0A9005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBDF2748C0A9005B389D /* main.c */; };
+		2B11BBEB2748FA1A005B389D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B11BBEA2748FA1A005B389D /* main.c */; };
+		2B2310C62744E1E400A54FBD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B2310C52744E1E400A54FBD /* main.c */; };
+		2B2310D12744E2DD00A54FBD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B2310D02744E2DD00A54FBD /* main.c */; };
+		2B2310DC2745105E00A54FBD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B2310DB2745105E00A54FBD /* main.c */; };
+		2B2BBF53273D80A20034F88A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B2BBF52273D80A20034F88A /* main.c */; };
+		2B31EA6E27410DFF00DCBD69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B31EA6D27410DFF00DCBD69 /* main.c */; };
+		2B31EA7927410FB500DCBD69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B31EA7827410FB500DCBD69 /* main.c */; };
+		2B55BE9D275934B7004AFD27 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B55BE9C275934B7004AFD27 /* main.c */; };
+		2B55BEA82759D0C4004AFD27 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B55BEA72759D0C4004AFD27 /* main.c */; };
+		2B684B61274B9C5900D593B0 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B684B60274B9C5900D593B0 /* main.c */; };
+		2B7843EF277B85220098DB42 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B7843EE277B85220098DB42 /* main.c */; };
+		2B7843FA277B91FE0098DB42 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B7843F9277B91FE0098DB42 /* main.c */; };
+		2B784405277BA1EF0098DB42 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B784404277BA1EF0098DB42 /* main.c */; };
+		2B7B3968274241AE0016D8C6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B7B3967274241AE0016D8C6 /* main.c */; };
+		2B940ED2273E73DA00274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940ED1273E73DA00274FCD /* main.c */; };
+		2B940EDD273E79F700274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940EDC273E79F700274FCD /* main.c */; };
+		2B940EFC273E9FAA00274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940EFB273E9FAA00274FCD /* main.c */; };
+		2B940F07273EA23C00274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F06273EA23C00274FCD /* main.c */; };
+		2B940F12273EA98400274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F11273EA98400274FCD /* main.c */; };
+		2B940F1D273EAC3600274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F1C273EAC3600274FCD /* main.c */; };
+		2B940F28273EAFB100274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F27273EAFB100274FCD /* main.c */; };
+		2B940F33273EC48000274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F32273EC48000274FCD /* main.c */; };
+		2B940F3E273ECB1400274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F3D273ECB1400274FCD /* main.c */; };
+		2B940F49273EEE6700274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F48273EEE6700274FCD /* main.c */; };
+		2B940F54273EF72500274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F53273EF72500274FCD /* main.c */; };
+		2B940F5F273F56E300274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F5E273F56E300274FCD /* main.c */; };
+		2B940F6A273F5F1900274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F69273F5F1900274FCD /* main.c */; };
+		2B940F80273F766D00274FCD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B940F7F273F766D00274FCD /* main.c */; };
+		2BC0AED3273D75CB00943304 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BC0AED2273D75CB00943304 /* main.c */; };
+		2BC0AEE0273D779300943304 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BC0AEDF273D779300943304 /* main.c */; };
+		2BC0AEEB273D7BA600943304 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BC0AEEA273D7BA600943304 /* main.c */; };
+		2BD8F8A1274633E0003801A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BD8F8A0274633E0003801A1 /* main.c */; };
+		2BD8F8AC27463996003801A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BD8F8AB27463996003801A1 /* main.c */; };
+		2BD8F8B7274645C1003801A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BD8F8B6274645C1003801A1 /* main.c */; };
+		2BD8F8C227464A17003801A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BD8F8C127464A17003801A1 /* main.c */; };
+		2BD8F8CD27464DA4003801A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BD8F8CC27464DA4003801A1 /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2B11BB992748AF14005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBA42748B0B5005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBAF2748B72C005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBBA2748B99B005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBC52748BA62005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBD02748BBCB005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBDB2748C0A9005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B11BBE62748FA1A005B389D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B2310C12744E1E400A54FBD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B2310CC2744E2DD00A54FBD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B2310D72745105E00A54FBD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B2BBF4E273D80A20034F88A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B31EA6927410DFF00DCBD69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B31EA7427410FB500DCBD69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B55BE98275934B7004AFD27 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B55BEA32759D0C4004AFD27 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B684B51274B9C3D00D593B0 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B684B5C274B9C5900D593B0 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B7843EA277B85220098DB42 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B7843F5277B91FE0098DB42 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B784400277BA1EF0098DB42 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B7B3963274241AE0016D8C6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940ECD273E73DA00274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940ED8273E79F700274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940EF7273E9FAA00274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F02273EA23C00274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F0D273EA98400274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F18273EAC3600274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F23273EAFB100274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F2E273EC48000274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F39273ECB1400274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F44273EEE6700274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F4F273EF72500274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F5A273F56E300274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F65273F5F1900274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F70273F67B400274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B940F7B273F766D00274FCD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BC0AECD273D75CB00943304 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BC0AEDB273D779300943304 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BC0AEE6273D7BA600943304 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BD8F89C274633E0003801A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BD8F8A727463996003801A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BD8F8B2274645C1003801A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BD8F8BD27464A17003801A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BD8F8C827464DA4003801A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2B11BB9B2748AF14005B389D /* question 5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question 5"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BB9D2748AF14005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBA62748B0B5005B389D /* check a no is armstrong no or not */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "check a no is armstrong no or not"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBA82748B0B5005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBB12748B72C005B389D /* find the reverse of a no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the reverse of a no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBB32748B72C005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBBC2748B99B005B389D /* find the sum of digit of a no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the sum of digit of a no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBBE2748B99B005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBC72748BA62005B389D /* reed no from user and find sum and average */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "reed no from user and find sum and average"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBC92748BA62005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBD22748BBCB005B389D /* find factorial of no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find factorial of no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBD42748BBCB005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBDD2748C0A9005B389D /* find fact using while */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find fact using while"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBDF2748C0A9005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B11BBE82748FA1A005B389D /* question on astric loop spc in between loop */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question on astric loop spc in between loop"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B11BBEA2748FA1A005B389D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B2310C32744E1E400A54FBD /* write a program in for right angled triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "write a program in for right angled triangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B2310C52744E1E400A54FBD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B2310CE2744E2DD00A54FBD /* write a program for 2 side pyramid */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "write a program for 2 side pyramid"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B2310D02744E2DD00A54FBD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B2310D92745105E00A54FBD /* write a program in c forming a triangle of using astric */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "write a program in c forming a triangle of using astric"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B2310DB2745105E00A54FBD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B2BBF3C273D806B0034F88A /* DISPLAY DIGITS OF A NOS. IN REVERSE ORDER.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B2BBF50273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DISPLAY DIGITS OF NO IN REVERSE ORDER"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B2BBF52273D80A20034F88A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B31EA6B27410DFF00DCBD69 /* find the factorial of a no. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the factorial of a no."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B31EA6D27410DFF00DCBD69 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B31EA7627410FB500DCBD69 /* n  terms of even natural no and their sum */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "n  terms of even natural no and their sum"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B31EA7827410FB500DCBD69 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B55BE9A275934B7004AFD27 /* hollow square */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "hollow square"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B55BE9C275934B7004AFD27 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B55BEA52759D0C4004AFD27 /* mst 1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "mst 1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B55BEA72759D0C4004AFD27 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B684B53274B9C3D00D593B0 /* question at class */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question at class"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B684B5E274B9C5900D593B0 /* question at class. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question at class."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B684B60274B9C5900D593B0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B7843EC277B85220098DB42 /* armstrong no between 2 no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "armstrong no between 2 no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B7843EE277B85220098DB42 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B7843F7277B91FE0098DB42 /* Write a program to search an element from an array. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a program to search an element from an array."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B7843F9277B91FE0098DB42 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B784402277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B784404277BA1EF0098DB42 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B7B3965274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "make such a pattern like a pyramid with a number which will repeat the number in the same row"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B7B3967274241AE0016D8C6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940ECF273E73DA00274FCD /* Cheacking a no is Amstrong no or not */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Cheacking a no is Amstrong no or not"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940ED1273E73DA00274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940EDA273E79F700274FCD /* table of a no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "table of a no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940EDC273E79F700274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940EE5273E9F8C00274FCD /* comm.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = comm.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940EF9273E9FAA00274FCD /* Reverse of a no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reverse of a no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940EFB273E9FAA00274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F04273EA23C00274FCD /* Display a no in words */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Display a no in words"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F06273EA23C00274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F0F273EA98400274FCD /* Find the GDC of 2 nos */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Find the GDC of 2 nos"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F11273EA98400274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F1A273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reed n nos from the keyboard and print their sum and average"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F1C273EAC3600274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F25273EAFB100274FCD /* display the cube of the number upto given an integer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "display the cube of the number upto given an integer"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F27273EAFB100274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F30273EC48000274FCD /* display the multipliaction table vertically from 1 to n */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "display the multipliaction table vertically from 1 to n"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F32273EC48000274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F3B273ECB1400274FCD /* display the n terms of odd natural number and their sum . */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "display the n terms of odd natural number and their sum ."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F3D273ECB1400274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F46273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "display the pattern like right angle triangle using an asterisk"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F48273EEE6700274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F51273EF72500274FCD /* display the pattern like right angle triangle with a number */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "display the pattern like right angle triangle with a number"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F53273EF72500274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F5C273F56E300274FCD /* Rough Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Rough Code"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F5E273F56E300274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F67273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "make such a pattern like right angle triangle with a number which will repeat a number in a row"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F69273F5F1900274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B940F72273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "make such a pattern like right angle triangle with number increased by 1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F7D273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "make such a pattern like a pyramid with numbers increased by 1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B940F7F273F766D00274FCD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BC0AECF273D75CB00943304 /* Loop in C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Loop in C"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BC0AED2273D75CB00943304 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BC0AEDD273D779300943304 /* check whether a no is perfect no or not */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "check whether a no is perfect no or not"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BC0AEDF273D779300943304 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BC0AEE8273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CHECKING A NO IS PRIME OR NOT"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BC0AEEA273D7BA600943304 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BD8F89E274633E0003801A1 /* equilateral triangle using  astric */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "equilateral triangle using  astric"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD8F8A0274633E0003801A1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BD8F8A927463996003801A1 /* questions on pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "questions on pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD8F8AB27463996003801A1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BD8F8B4274645C1003801A1 /* question 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD8F8B6274645C1003801A1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BD8F8BF27464A17003801A1 /* question 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question 3"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD8F8C127464A17003801A1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BD8F8CA27464DA4003801A1 /* question 4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "question 4"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD8F8CC27464DA4003801A1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B11BB982748AF14005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBA32748B0B5005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBAE2748B72C005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBB92748B99B005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBC42748BA62005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBCF2748BBCB005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBDA2748C0A9005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBE52748FA1A005B389D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310C02744E1E400A54FBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310CB2744E2DD00A54FBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310D62745105E00A54FBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2BBF39273D806B0034F88A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2BBF4D273D80A20034F88A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B31EA6827410DFF00DCBD69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B31EA7327410FB500DCBD69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B55BE97275934B7004AFD27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B55BEA22759D0C4004AFD27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B684B50274B9C3D00D593B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B684B5B274B9C5900D593B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843E9277B85220098DB42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843F4277B91FE0098DB42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843FF277BA1EF0098DB42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7B3962274241AE0016D8C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940ECC273E73DA00274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940ED7273E79F700274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940EE2273E9F8C00274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940EF6273E9FAA00274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F01273EA23C00274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F0C273EA98400274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F17273EAC3600274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F22273EAFB100274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F2D273EC48000274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F38273ECB1400274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F43273EEE6700274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F4E273EF72500274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F59273F56E300274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F64273F5F1900274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F6F273F67B400274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F7A273F766D00274FCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AECC273D75CB00943304 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AEDA273D779300943304 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AEE5273D7BA600943304 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F89B274633E0003801A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8A627463996003801A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8B1274645C1003801A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8BC27464A17003801A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8C727464DA4003801A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B11BB9C2748AF14005B389D /* question 5 */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BB9D2748AF14005B389D /* main.c */,
+			);
+			path = "question 5";
+			sourceTree = "<group>";
+		};
+		2B11BBA72748B0B5005B389D /* check a no is armstrong no or not */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBA82748B0B5005B389D /* main.c */,
+			);
+			path = "check a no is armstrong no or not";
+			sourceTree = "<group>";
+		};
+		2B11BBB22748B72C005B389D /* find the reverse of a no */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBB32748B72C005B389D /* main.c */,
+			);
+			path = "find the reverse of a no";
+			sourceTree = "<group>";
+		};
+		2B11BBBD2748B99B005B389D /* find the sum of digit of a no */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBBE2748B99B005B389D /* main.c */,
+			);
+			path = "find the sum of digit of a no";
+			sourceTree = "<group>";
+		};
+		2B11BBC82748BA62005B389D /* reed no from user and find sum and average */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBC92748BA62005B389D /* main.c */,
+			);
+			path = "reed no from user and find sum and average";
+			sourceTree = "<group>";
+		};
+		2B11BBD32748BBCB005B389D /* find factorial of no */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBD42748BBCB005B389D /* main.c */,
+			);
+			path = "find factorial of no";
+			sourceTree = "<group>";
+		};
+		2B11BBDE2748C0A9005B389D /* find fact using while */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBDF2748C0A9005B389D /* main.c */,
+			);
+			path = "find fact using while";
+			sourceTree = "<group>";
+		};
+		2B11BBE92748FA1A005B389D /* question on astric loop spc in between loop */ = {
+			isa = PBXGroup;
+			children = (
+				2B11BBEA2748FA1A005B389D /* main.c */,
+			);
+			path = "question on astric loop spc in between loop";
+			sourceTree = "<group>";
+		};
+		2B2310C42744E1E400A54FBD /* write a program in for right angled triangle */ = {
+			isa = PBXGroup;
+			children = (
+				2B2310C52744E1E400A54FBD /* main.c */,
+			);
+			path = "write a program in for right angled triangle";
+			sourceTree = "<group>";
+		};
+		2B2310CF2744E2DD00A54FBD /* write a program for 2 side pyramid */ = {
+			isa = PBXGroup;
+			children = (
+				2B2310D02744E2DD00A54FBD /* main.c */,
+			);
+			path = "write a program for 2 side pyramid";
+			sourceTree = "<group>";
+		};
+		2B2310DA2745105E00A54FBD /* write a program in c forming a triangle of using astric */ = {
+			isa = PBXGroup;
+			children = (
+				2B2310DB2745105E00A54FBD /* main.c */,
+			);
+			path = "write a program in c forming a triangle of using astric";
+			sourceTree = "<group>";
+		};
+		2B2BBF51273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */ = {
+			isa = PBXGroup;
+			children = (
+				2B2BBF52273D80A20034F88A /* main.c */,
+			);
+			path = "DISPLAY DIGITS OF NO IN REVERSE ORDER";
+			sourceTree = "<group>";
+		};
+		2B31EA6C27410DFF00DCBD69 /* find the factorial of a no. */ = {
+			isa = PBXGroup;
+			children = (
+				2B31EA6D27410DFF00DCBD69 /* main.c */,
+			);
+			path = "find the factorial of a no.";
+			sourceTree = "<group>";
+		};
+		2B31EA7727410FB500DCBD69 /* n  terms of even natural no and their sum */ = {
+			isa = PBXGroup;
+			children = (
+				2B31EA7827410FB500DCBD69 /* main.c */,
+			);
+			path = "n  terms of even natural no and their sum";
+			sourceTree = "<group>";
+		};
+		2B55BE9B275934B7004AFD27 /* hollow square */ = {
+			isa = PBXGroup;
+			children = (
+				2B55BE9C275934B7004AFD27 /* main.c */,
+			);
+			path = "hollow square";
+			sourceTree = "<group>";
+		};
+		2B55BEA62759D0C4004AFD27 /* mst 1 */ = {
+			isa = PBXGroup;
+			children = (
+				2B55BEA72759D0C4004AFD27 /* main.c */,
+			);
+			path = "mst 1";
+			sourceTree = "<group>";
+		};
+		2B684B5F274B9C5900D593B0 /* question at class. */ = {
+			isa = PBXGroup;
+			children = (
+				2B684B60274B9C5900D593B0 /* main.c */,
+			);
+			path = "question at class.";
+			sourceTree = "<group>";
+		};
+		2B7843ED277B85220098DB42 /* armstrong no between 2 no */ = {
+			isa = PBXGroup;
+			children = (
+				2B7843EE277B85220098DB42 /* main.c */,
+			);
+			path = "armstrong no between 2 no";
+			sourceTree = "<group>";
+		};
+		2B7843F8277B91FE0098DB42 /* Write a program to search an element from an array. */ = {
+			isa = PBXGroup;
+			children = (
+				2B7843F9277B91FE0098DB42 /* main.c */,
+			);
+			path = "Write a program to search an element from an array.";
+			sourceTree = "<group>";
+		};
+		2B784403277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */ = {
+			isa = PBXGroup;
+			children = (
+				2B784404277BA1EF0098DB42 /* main.c */,
+			);
+			path = "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement.";
+			sourceTree = "<group>";
+		};
+		2B7B3966274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */ = {
+			isa = PBXGroup;
+			children = (
+				2B7B3967274241AE0016D8C6 /* main.c */,
+			);
+			path = "make such a pattern like a pyramid with a number which will repeat the number in the same row";
+			sourceTree = "<group>";
+		};
+		2B940ED0273E73DA00274FCD /* Cheacking a no is Amstrong no or not */ = {
+			isa = PBXGroup;
+			children = (
+				2B940ED1273E73DA00274FCD /* main.c */,
+			);
+			path = "Cheacking a no is Amstrong no or not";
+			sourceTree = "<group>";
+		};
+		2B940EDB273E79F700274FCD /* table of a no */ = {
+			isa = PBXGroup;
+			children = (
+				2B940EDC273E79F700274FCD /* main.c */,
+			);
+			path = "table of a no";
+			sourceTree = "<group>";
+		};
+		2B940EFA273E9FAA00274FCD /* Reverse of a no */ = {
+			isa = PBXGroup;
+			children = (
+				2B940EFB273E9FAA00274FCD /* main.c */,
+			);
+			path = "Reverse of a no";
+			sourceTree = "<group>";
+		};
+		2B940F05273EA23C00274FCD /* Display a no in words */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F06273EA23C00274FCD /* main.c */,
+			);
+			path = "Display a no in words";
+			sourceTree = "<group>";
+		};
+		2B940F10273EA98400274FCD /* Find the GDC of 2 nos */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F11273EA98400274FCD /* main.c */,
+			);
+			path = "Find the GDC of 2 nos";
+			sourceTree = "<group>";
+		};
+		2B940F1B273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F1C273EAC3600274FCD /* main.c */,
+			);
+			path = "Reed n nos from the keyboard and print their sum and average";
+			sourceTree = "<group>";
+		};
+		2B940F26273EAFB100274FCD /* display the cube of the number upto given an integer */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F27273EAFB100274FCD /* main.c */,
+			);
+			path = "display the cube of the number upto given an integer";
+			sourceTree = "<group>";
+		};
+		2B940F31273EC48000274FCD /* display the multipliaction table vertically from 1 to n */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F32273EC48000274FCD /* main.c */,
+			);
+			path = "display the multipliaction table vertically from 1 to n";
+			sourceTree = "<group>";
+		};
+		2B940F3C273ECB1400274FCD /* display the n terms of odd natural number and their sum . */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F3D273ECB1400274FCD /* main.c */,
+			);
+			path = "display the n terms of odd natural number and their sum .";
+			sourceTree = "<group>";
+		};
+		2B940F47273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F48273EEE6700274FCD /* main.c */,
+			);
+			path = "display the pattern like right angle triangle using an asterisk";
+			sourceTree = "<group>";
+		};
+		2B940F52273EF72500274FCD /* display the pattern like right angle triangle with a number */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F53273EF72500274FCD /* main.c */,
+			);
+			path = "display the pattern like right angle triangle with a number";
+			sourceTree = "<group>";
+		};
+		2B940F5D273F56E300274FCD /* Rough Code */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F5E273F56E300274FCD /* main.c */,
+			);
+			path = "Rough Code";
+			sourceTree = "<group>";
+		};
+		2B940F68273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F69273F5F1900274FCD /* main.c */,
+			);
+			path = "make such a pattern like right angle triangle with a number which will repeat a number in a row";
+			sourceTree = "<group>";
+		};
+		2B940F73273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "make such a pattern like right angle triangle with number increased by 1";
+			sourceTree = "<group>";
+		};
+		2B940F7E273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */ = {
+			isa = PBXGroup;
+			children = (
+				2B940F7F273F766D00274FCD /* main.c */,
+			);
+			path = "make such a pattern like a pyramid with numbers increased by 1";
+			sourceTree = "<group>";
+		};
+		2BC0AEC6273D75CB00943304 = {
+			isa = PBXGroup;
+			children = (
+				2B940F5D273F56E300274FCD /* Rough Code */,
+				2BC0AED1273D75CB00943304 /* Loop in C */,
+				2BC0AEDE273D779300943304 /* check whether a no is perfect no or not */,
+				2BC0AEE9273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */,
+				2B2BBF51273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */,
+				2B940ED0273E73DA00274FCD /* Cheacking a no is Amstrong no or not */,
+				2B940EDB273E79F700274FCD /* table of a no */,
+				2B940EFA273E9FAA00274FCD /* Reverse of a no */,
+				2B940F05273EA23C00274FCD /* Display a no in words */,
+				2B940F10273EA98400274FCD /* Find the GDC of 2 nos */,
+				2B940F1B273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */,
+				2B940F26273EAFB100274FCD /* display the cube of the number upto given an integer */,
+				2B940F31273EC48000274FCD /* display the multipliaction table vertically from 1 to n */,
+				2B940F3C273ECB1400274FCD /* display the n terms of odd natural number and their sum . */,
+				2B940F47273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */,
+				2B940F52273EF72500274FCD /* display the pattern like right angle triangle with a number */,
+				2B940F68273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */,
+				2B940F73273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */,
+				2B940F7E273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */,
+				2B31EA6C27410DFF00DCBD69 /* find the factorial of a no. */,
+				2B31EA7727410FB500DCBD69 /* n  terms of even natural no and their sum */,
+				2B7B3966274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */,
+				2B2310C42744E1E400A54FBD /* write a program in for right angled triangle */,
+				2B2310CF2744E2DD00A54FBD /* write a program for 2 side pyramid */,
+				2B2310DA2745105E00A54FBD /* write a program in c forming a triangle of using astric */,
+				2BD8F89F274633E0003801A1 /* equilateral triangle using  astric */,
+				2BD8F8AA27463996003801A1 /* questions on pattern */,
+				2BD8F8B5274645C1003801A1 /* question 2 */,
+				2BD8F8C027464A17003801A1 /* question 3 */,
+				2BD8F8CB27464DA4003801A1 /* question 4 */,
+				2B11BB9C2748AF14005B389D /* question 5 */,
+				2B11BBA72748B0B5005B389D /* check a no is armstrong no or not */,
+				2B11BBB22748B72C005B389D /* find the reverse of a no */,
+				2B11BBBD2748B99B005B389D /* find the sum of digit of a no */,
+				2B11BBC82748BA62005B389D /* reed no from user and find sum and average */,
+				2B11BBD32748BBCB005B389D /* find factorial of no */,
+				2B11BBDE2748C0A9005B389D /* find fact using while */,
+				2B11BBE92748FA1A005B389D /* question on astric loop spc in between loop */,
+				2B684B5F274B9C5900D593B0 /* question at class. */,
+				2B55BE9B275934B7004AFD27 /* hollow square */,
+				2B55BEA62759D0C4004AFD27 /* mst 1 */,
+				2B7843ED277B85220098DB42 /* armstrong no between 2 no */,
+				2B7843F8277B91FE0098DB42 /* Write a program to search an element from an array. */,
+				2B784403277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */,
+				2BC0AED0273D75CB00943304 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2BC0AED0273D75CB00943304 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2BC0AECF273D75CB00943304 /* Loop in C */,
+				2BC0AEDD273D779300943304 /* check whether a no is perfect no or not */,
+				2BC0AEE8273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */,
+				2B2BBF3C273D806B0034F88A /* DISPLAY DIGITS OF A NOS. IN REVERSE ORDER.appex */,
+				2B2BBF50273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */,
+				2B940ECF273E73DA00274FCD /* Cheacking a no is Amstrong no or not */,
+				2B940EDA273E79F700274FCD /* table of a no */,
+				2B940EE5273E9F8C00274FCD /* comm.appex */,
+				2B940EF9273E9FAA00274FCD /* Reverse of a no */,
+				2B940F04273EA23C00274FCD /* Display a no in words */,
+				2B940F0F273EA98400274FCD /* Find the GDC of 2 nos */,
+				2B940F1A273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */,
+				2B940F25273EAFB100274FCD /* display the cube of the number upto given an integer */,
+				2B940F30273EC48000274FCD /* display the multipliaction table vertically from 1 to n */,
+				2B940F3B273ECB1400274FCD /* display the n terms of odd natural number and their sum . */,
+				2B940F46273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */,
+				2B940F51273EF72500274FCD /* display the pattern like right angle triangle with a number */,
+				2B940F5C273F56E300274FCD /* Rough Code */,
+				2B940F67273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */,
+				2B940F72273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */,
+				2B940F7D273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */,
+				2B31EA6B27410DFF00DCBD69 /* find the factorial of a no. */,
+				2B31EA7627410FB500DCBD69 /* n  terms of even natural no and their sum */,
+				2B7B3965274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */,
+				2B2310C32744E1E400A54FBD /* write a program in for right angled triangle */,
+				2B2310CE2744E2DD00A54FBD /* write a program for 2 side pyramid */,
+				2B2310D92745105E00A54FBD /* write a program in c forming a triangle of using astric */,
+				2BD8F89E274633E0003801A1 /* equilateral triangle using  astric */,
+				2BD8F8A927463996003801A1 /* questions on pattern */,
+				2BD8F8B4274645C1003801A1 /* question 2 */,
+				2BD8F8BF27464A17003801A1 /* question 3 */,
+				2BD8F8CA27464DA4003801A1 /* question 4 */,
+				2B11BB9B2748AF14005B389D /* question 5 */,
+				2B11BBA62748B0B5005B389D /* check a no is armstrong no or not */,
+				2B11BBB12748B72C005B389D /* find the reverse of a no */,
+				2B11BBBC2748B99B005B389D /* find the sum of digit of a no */,
+				2B11BBC72748BA62005B389D /* reed no from user and find sum and average */,
+				2B11BBD22748BBCB005B389D /* find factorial of no */,
+				2B11BBDD2748C0A9005B389D /* find fact using while */,
+				2B11BBE82748FA1A005B389D /* question on astric loop spc in between loop */,
+				2B684B53274B9C3D00D593B0 /* question at class */,
+				2B684B5E274B9C5900D593B0 /* question at class. */,
+				2B55BE9A275934B7004AFD27 /* hollow square */,
+				2B55BEA52759D0C4004AFD27 /* mst 1 */,
+				2B7843EC277B85220098DB42 /* armstrong no between 2 no */,
+				2B7843F7277B91FE0098DB42 /* Write a program to search an element from an array. */,
+				2B784402277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2BC0AED1273D75CB00943304 /* Loop in C */ = {
+			isa = PBXGroup;
+			children = (
+				2BC0AED2273D75CB00943304 /* main.c */,
+			);
+			path = "Loop in C";
+			sourceTree = "<group>";
+		};
+		2BC0AEDE273D779300943304 /* check whether a no is perfect no or not */ = {
+			isa = PBXGroup;
+			children = (
+				2BC0AEDF273D779300943304 /* main.c */,
+			);
+			path = "check whether a no is perfect no or not";
+			sourceTree = "<group>";
+		};
+		2BC0AEE9273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */ = {
+			isa = PBXGroup;
+			children = (
+				2BC0AEEA273D7BA600943304 /* main.c */,
+			);
+			path = "CHECKING A NO IS PRIME OR NOT";
+			sourceTree = "<group>";
+		};
+		2BD8F89F274633E0003801A1 /* equilateral triangle using  astric */ = {
+			isa = PBXGroup;
+			children = (
+				2BD8F8A0274633E0003801A1 /* main.c */,
+			);
+			path = "equilateral triangle using  astric";
+			sourceTree = "<group>";
+		};
+		2BD8F8AA27463996003801A1 /* questions on pattern */ = {
+			isa = PBXGroup;
+			children = (
+				2BD8F8AB27463996003801A1 /* main.c */,
+			);
+			path = "questions on pattern";
+			sourceTree = "<group>";
+		};
+		2BD8F8B5274645C1003801A1 /* question 2 */ = {
+			isa = PBXGroup;
+			children = (
+				2BD8F8B6274645C1003801A1 /* main.c */,
+			);
+			path = "question 2";
+			sourceTree = "<group>";
+		};
+		2BD8F8C027464A17003801A1 /* question 3 */ = {
+			isa = PBXGroup;
+			children = (
+				2BD8F8C127464A17003801A1 /* main.c */,
+			);
+			path = "question 3";
+			sourceTree = "<group>";
+		};
+		2BD8F8CB27464DA4003801A1 /* question 4 */ = {
+			isa = PBXGroup;
+			children = (
+				2BD8F8CC27464DA4003801A1 /* main.c */,
+			);
+			path = "question 4";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B11BB9A2748AF14005B389D /* question 5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBA12748AF14005B389D /* Build configuration list for PBXNativeTarget "question 5" */;
+			buildPhases = (
+				2B11BB972748AF14005B389D /* Sources */,
+				2B11BB982748AF14005B389D /* Frameworks */,
+				2B11BB992748AF14005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question 5";
+			productName = "question 5";
+			productReference = 2B11BB9B2748AF14005B389D /* question 5 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBA52748B0B5005B389D /* check a no is armstrong no or not */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBAA2748B0B5005B389D /* Build configuration list for PBXNativeTarget "check a no is armstrong no or not" */;
+			buildPhases = (
+				2B11BBA22748B0B5005B389D /* Sources */,
+				2B11BBA32748B0B5005B389D /* Frameworks */,
+				2B11BBA42748B0B5005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "check a no is armstrong no or not";
+			productName = "check a no is armstrong no or not";
+			productReference = 2B11BBA62748B0B5005B389D /* check a no is armstrong no or not */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBB02748B72C005B389D /* find the reverse of a no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBB52748B72C005B389D /* Build configuration list for PBXNativeTarget "find the reverse of a no" */;
+			buildPhases = (
+				2B11BBAD2748B72C005B389D /* Sources */,
+				2B11BBAE2748B72C005B389D /* Frameworks */,
+				2B11BBAF2748B72C005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the reverse of a no";
+			productName = "find the reverse of a no";
+			productReference = 2B11BBB12748B72C005B389D /* find the reverse of a no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBBB2748B99B005B389D /* find the sum of digit of a no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBC02748B99B005B389D /* Build configuration list for PBXNativeTarget "find the sum of digit of a no" */;
+			buildPhases = (
+				2B11BBB82748B99B005B389D /* Sources */,
+				2B11BBB92748B99B005B389D /* Frameworks */,
+				2B11BBBA2748B99B005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the sum of digit of a no";
+			productName = "find the sum of digit of a no";
+			productReference = 2B11BBBC2748B99B005B389D /* find the sum of digit of a no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBC62748BA62005B389D /* reed no from user and find sum and average */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBCB2748BA62005B389D /* Build configuration list for PBXNativeTarget "reed no from user and find sum and average" */;
+			buildPhases = (
+				2B11BBC32748BA62005B389D /* Sources */,
+				2B11BBC42748BA62005B389D /* Frameworks */,
+				2B11BBC52748BA62005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "reed no from user and find sum and average";
+			productName = "reed no from user and find sum and average";
+			productReference = 2B11BBC72748BA62005B389D /* reed no from user and find sum and average */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBD12748BBCB005B389D /* find factorial of no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBD62748BBCB005B389D /* Build configuration list for PBXNativeTarget "find factorial of no" */;
+			buildPhases = (
+				2B11BBCE2748BBCB005B389D /* Sources */,
+				2B11BBCF2748BBCB005B389D /* Frameworks */,
+				2B11BBD02748BBCB005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find factorial of no";
+			productName = "find factorial of no";
+			productReference = 2B11BBD22748BBCB005B389D /* find factorial of no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBDC2748C0A9005B389D /* find fact using while */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBE12748C0A9005B389D /* Build configuration list for PBXNativeTarget "find fact using while" */;
+			buildPhases = (
+				2B11BBD92748C0A9005B389D /* Sources */,
+				2B11BBDA2748C0A9005B389D /* Frameworks */,
+				2B11BBDB2748C0A9005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find fact using while";
+			productName = "find fact using while";
+			productReference = 2B11BBDD2748C0A9005B389D /* find fact using while */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B11BBE72748FA1A005B389D /* question on astric loop spc in between loop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B11BBEC2748FA1A005B389D /* Build configuration list for PBXNativeTarget "question on astric loop spc in between loop" */;
+			buildPhases = (
+				2B11BBE42748FA1A005B389D /* Sources */,
+				2B11BBE52748FA1A005B389D /* Frameworks */,
+				2B11BBE62748FA1A005B389D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question on astric loop spc in between loop";
+			productName = "question on astric loop spc in between loop";
+			productReference = 2B11BBE82748FA1A005B389D /* question on astric loop spc in between loop */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B2310C22744E1E400A54FBD /* write a program in for right angled triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B2310C72744E1E400A54FBD /* Build configuration list for PBXNativeTarget "write a program in for right angled triangle" */;
+			buildPhases = (
+				2B2310BF2744E1E400A54FBD /* Sources */,
+				2B2310C02744E1E400A54FBD /* Frameworks */,
+				2B2310C12744E1E400A54FBD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "write a program in for right angled triangle";
+			productName = "write a program in for right angled triangle";
+			productReference = 2B2310C32744E1E400A54FBD /* write a program in for right angled triangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B2310CD2744E2DD00A54FBD /* write a program for 2 side pyramid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B2310D22744E2DD00A54FBD /* Build configuration list for PBXNativeTarget "write a program for 2 side pyramid" */;
+			buildPhases = (
+				2B2310CA2744E2DD00A54FBD /* Sources */,
+				2B2310CB2744E2DD00A54FBD /* Frameworks */,
+				2B2310CC2744E2DD00A54FBD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "write a program for 2 side pyramid";
+			productName = "write a program for 2 side pyramid";
+			productReference = 2B2310CE2744E2DD00A54FBD /* write a program for 2 side pyramid */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B2310D82745105E00A54FBD /* write a program in c forming a triangle of using astric */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B2310DD2745105E00A54FBD /* Build configuration list for PBXNativeTarget "write a program in c forming a triangle of using astric" */;
+			buildPhases = (
+				2B2310D52745105E00A54FBD /* Sources */,
+				2B2310D62745105E00A54FBD /* Frameworks */,
+				2B2310D72745105E00A54FBD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "write a program in c forming a triangle of using astric";
+			productName = "write a program in c forming a triangle of using astric";
+			productReference = 2B2310D92745105E00A54FBD /* write a program in c forming a triangle of using astric */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B2BBF3B273D806B0034F88A /* DISPLAY DIGITS OF A NOS. IN REVERSE ORDER */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B2BBF4B273D806B0034F88A /* Build configuration list for PBXNativeTarget "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER" */;
+			buildPhases = (
+				2B2BBF38273D806B0034F88A /* Sources */,
+				2B2BBF39273D806B0034F88A /* Frameworks */,
+				2B2BBF3A273D806B0034F88A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER";
+			productName = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER";
+			productReference = 2B2BBF3C273D806B0034F88A /* DISPLAY DIGITS OF A NOS. IN REVERSE ORDER.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		2B2BBF4F273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B2BBF54273D80A20034F88A /* Build configuration list for PBXNativeTarget "DISPLAY DIGITS OF NO IN REVERSE ORDER" */;
+			buildPhases = (
+				2B2BBF4C273D80A20034F88A /* Sources */,
+				2B2BBF4D273D80A20034F88A /* Frameworks */,
+				2B2BBF4E273D80A20034F88A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DISPLAY DIGITS OF NO IN REVERSE ORDER";
+			productName = "DISPLAY DIGITS OF NO IN REVERSE ORDER";
+			productReference = 2B2BBF50273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B31EA6A27410DFF00DCBD69 /* find the factorial of a no. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B31EA7127410DFF00DCBD69 /* Build configuration list for PBXNativeTarget "find the factorial of a no." */;
+			buildPhases = (
+				2B31EA6727410DFF00DCBD69 /* Sources */,
+				2B31EA6827410DFF00DCBD69 /* Frameworks */,
+				2B31EA6927410DFF00DCBD69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the factorial of a no.";
+			productName = "find the factorial of a no.";
+			productReference = 2B31EA6B27410DFF00DCBD69 /* find the factorial of a no. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B31EA7527410FB500DCBD69 /* n  terms of even natural no and their sum */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B31EA7A27410FB500DCBD69 /* Build configuration list for PBXNativeTarget "n  terms of even natural no and their sum" */;
+			buildPhases = (
+				2B31EA7227410FB500DCBD69 /* Sources */,
+				2B31EA7327410FB500DCBD69 /* Frameworks */,
+				2B31EA7427410FB500DCBD69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "n  terms of even natural no and their sum";
+			productName = "n  terms of even natural no and their sum";
+			productReference = 2B31EA7627410FB500DCBD69 /* n  terms of even natural no and their sum */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B55BE99275934B7004AFD27 /* hollow square */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B55BEA0275934B7004AFD27 /* Build configuration list for PBXNativeTarget "hollow square" */;
+			buildPhases = (
+				2B55BE96275934B7004AFD27 /* Sources */,
+				2B55BE97275934B7004AFD27 /* Frameworks */,
+				2B55BE98275934B7004AFD27 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "hollow square";
+			productName = "hollow square";
+			productReference = 2B55BE9A275934B7004AFD27 /* hollow square */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B55BEA42759D0C4004AFD27 /* mst 1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B55BEA92759D0C4004AFD27 /* Build configuration list for PBXNativeTarget "mst 1" */;
+			buildPhases = (
+				2B55BEA12759D0C4004AFD27 /* Sources */,
+				2B55BEA22759D0C4004AFD27 /* Frameworks */,
+				2B55BEA32759D0C4004AFD27 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "mst 1";
+			productName = "mst 1";
+			productReference = 2B55BEA52759D0C4004AFD27 /* mst 1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B684B52274B9C3D00D593B0 /* question at class */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B684B59274B9C3D00D593B0 /* Build configuration list for PBXNativeTarget "question at class" */;
+			buildPhases = (
+				2B684B4F274B9C3D00D593B0 /* Sources */,
+				2B684B50274B9C3D00D593B0 /* Frameworks */,
+				2B684B51274B9C3D00D593B0 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question at class";
+			productName = "question at class";
+			productReference = 2B684B53274B9C3D00D593B0 /* question at class */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B684B5D274B9C5900D593B0 /* question at class. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B684B62274B9C5900D593B0 /* Build configuration list for PBXNativeTarget "question at class." */;
+			buildPhases = (
+				2B684B5A274B9C5900D593B0 /* Sources */,
+				2B684B5B274B9C5900D593B0 /* Frameworks */,
+				2B684B5C274B9C5900D593B0 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question at class.";
+			productName = "question at class.";
+			productReference = 2B684B5E274B9C5900D593B0 /* question at class. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B7843EB277B85220098DB42 /* armstrong no between 2 no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7843F2277B85220098DB42 /* Build configuration list for PBXNativeTarget "armstrong no between 2 no" */;
+			buildPhases = (
+				2B7843E8277B85220098DB42 /* Sources */,
+				2B7843E9277B85220098DB42 /* Frameworks */,
+				2B7843EA277B85220098DB42 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "armstrong no between 2 no";
+			productName = "armstrong no between 2 no";
+			productReference = 2B7843EC277B85220098DB42 /* armstrong no between 2 no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B7843F6277B91FE0098DB42 /* Write a program to search an element from an array. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7843FB277B91FE0098DB42 /* Build configuration list for PBXNativeTarget "Write a program to search an element from an array." */;
+			buildPhases = (
+				2B7843F3277B91FE0098DB42 /* Sources */,
+				2B7843F4277B91FE0098DB42 /* Frameworks */,
+				2B7843F5277B91FE0098DB42 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a program to search an element from an array.";
+			productName = "Write a program to search an element from an array.";
+			productReference = 2B7843F7277B91FE0098DB42 /* Write a program to search an element from an array. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B784401277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B784406277BA1EF0098DB42 /* Build configuration list for PBXNativeTarget "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement." */;
+			buildPhases = (
+				2B7843FE277BA1EF0098DB42 /* Sources */,
+				2B7843FF277BA1EF0098DB42 /* Frameworks */,
+				2B784400277BA1EF0098DB42 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement.";
+			productName = "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement.";
+			productReference = 2B784402277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B7B3964274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7B396B274241AE0016D8C6 /* Build configuration list for PBXNativeTarget "make such a pattern like a pyramid with a number which will repeat the number in the same row" */;
+			buildPhases = (
+				2B7B3961274241AE0016D8C6 /* Sources */,
+				2B7B3962274241AE0016D8C6 /* Frameworks */,
+				2B7B3963274241AE0016D8C6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "make such a pattern like a pyramid with a number which will repeat the number in the same row";
+			productName = "make such a pattern like a pyramid with a number which will repeat the number in the same row";
+			productReference = 2B7B3965274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940ECE273E73DA00274FCD /* Cheacking a no is Amstrong no or not */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940ED5273E73DA00274FCD /* Build configuration list for PBXNativeTarget "Cheacking a no is Amstrong no or not" */;
+			buildPhases = (
+				2B940ECB273E73DA00274FCD /* Sources */,
+				2B940ECC273E73DA00274FCD /* Frameworks */,
+				2B940ECD273E73DA00274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Cheacking a no is Amstrong no or not";
+			productName = "Cheacking a no is Amstrong no or not";
+			productReference = 2B940ECF273E73DA00274FCD /* Cheacking a no is Amstrong no or not */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940ED9273E79F700274FCD /* table of a no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940EDE273E79F700274FCD /* Build configuration list for PBXNativeTarget "table of a no" */;
+			buildPhases = (
+				2B940ED6273E79F700274FCD /* Sources */,
+				2B940ED7273E79F700274FCD /* Frameworks */,
+				2B940ED8273E79F700274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "table of a no";
+			productName = "table of a no";
+			productReference = 2B940EDA273E79F700274FCD /* table of a no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940EE4273E9F8C00274FCD /* comm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940EF2273E9F8C00274FCD /* Build configuration list for PBXNativeTarget "comm" */;
+			buildPhases = (
+				2B940EE1273E9F8C00274FCD /* Sources */,
+				2B940EE2273E9F8C00274FCD /* Frameworks */,
+				2B940EE3273E9F8C00274FCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = comm;
+			productName = comm;
+			productReference = 2B940EE5273E9F8C00274FCD /* comm.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		2B940EF8273E9FAA00274FCD /* Reverse of a no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940EFD273E9FAA00274FCD /* Build configuration list for PBXNativeTarget "Reverse of a no" */;
+			buildPhases = (
+				2B940EF5273E9FAA00274FCD /* Sources */,
+				2B940EF6273E9FAA00274FCD /* Frameworks */,
+				2B940EF7273E9FAA00274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Reverse of a no";
+			productName = "Reverse of a no";
+			productReference = 2B940EF9273E9FAA00274FCD /* Reverse of a no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F03273EA23C00274FCD /* Display a no in words */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F08273EA23C00274FCD /* Build configuration list for PBXNativeTarget "Display a no in words" */;
+			buildPhases = (
+				2B940F00273EA23C00274FCD /* Sources */,
+				2B940F01273EA23C00274FCD /* Frameworks */,
+				2B940F02273EA23C00274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Display a no in words";
+			productName = "Display a no in words";
+			productReference = 2B940F04273EA23C00274FCD /* Display a no in words */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F0E273EA98400274FCD /* Find the GDC of 2 nos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F13273EA98400274FCD /* Build configuration list for PBXNativeTarget "Find the GDC of 2 nos" */;
+			buildPhases = (
+				2B940F0B273EA98400274FCD /* Sources */,
+				2B940F0C273EA98400274FCD /* Frameworks */,
+				2B940F0D273EA98400274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Find the GDC of 2 nos";
+			productName = "Find the GDC of 2 nos";
+			productReference = 2B940F0F273EA98400274FCD /* Find the GDC of 2 nos */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F19273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F1E273EAC3600274FCD /* Build configuration list for PBXNativeTarget "Reed n nos from the keyboard and print their sum and average" */;
+			buildPhases = (
+				2B940F16273EAC3600274FCD /* Sources */,
+				2B940F17273EAC3600274FCD /* Frameworks */,
+				2B940F18273EAC3600274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Reed n nos from the keyboard and print their sum and average";
+			productName = "Reed n nos from the keyboard and print their sum and average";
+			productReference = 2B940F1A273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F24273EAFB100274FCD /* display the cube of the number upto given an integer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F29273EAFB100274FCD /* Build configuration list for PBXNativeTarget "display the cube of the number upto given an integer" */;
+			buildPhases = (
+				2B940F21273EAFB100274FCD /* Sources */,
+				2B940F22273EAFB100274FCD /* Frameworks */,
+				2B940F23273EAFB100274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "display the cube of the number upto given an integer";
+			productName = "display the cube of the number upto given an integer";
+			productReference = 2B940F25273EAFB100274FCD /* display the cube of the number upto given an integer */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F2F273EC48000274FCD /* display the multipliaction table vertically from 1 to n */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F34273EC48000274FCD /* Build configuration list for PBXNativeTarget "display the multipliaction table vertically from 1 to n" */;
+			buildPhases = (
+				2B940F2C273EC48000274FCD /* Sources */,
+				2B940F2D273EC48000274FCD /* Frameworks */,
+				2B940F2E273EC48000274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "display the multipliaction table vertically from 1 to n";
+			productName = "display the multipliaction table vertically from 1 to n";
+			productReference = 2B940F30273EC48000274FCD /* display the multipliaction table vertically from 1 to n */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F3A273ECB1400274FCD /* display the n terms of odd natural number and their sum . */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F3F273ECB1400274FCD /* Build configuration list for PBXNativeTarget "display the n terms of odd natural number and their sum ." */;
+			buildPhases = (
+				2B940F37273ECB1400274FCD /* Sources */,
+				2B940F38273ECB1400274FCD /* Frameworks */,
+				2B940F39273ECB1400274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "display the n terms of odd natural number and their sum .";
+			productName = "display the n terms of odd natural number and their sum .";
+			productReference = 2B940F3B273ECB1400274FCD /* display the n terms of odd natural number and their sum . */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F45273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F4A273EEE6700274FCD /* Build configuration list for PBXNativeTarget "display the pattern like right angle triangle using an asterisk" */;
+			buildPhases = (
+				2B940F42273EEE6700274FCD /* Sources */,
+				2B940F43273EEE6700274FCD /* Frameworks */,
+				2B940F44273EEE6700274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "display the pattern like right angle triangle using an asterisk";
+			productName = "display the pattern like right angle triangle using an asterisk";
+			productReference = 2B940F46273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F50273EF72500274FCD /* display the pattern like right angle triangle with a number */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F55273EF72500274FCD /* Build configuration list for PBXNativeTarget "display the pattern like right angle triangle with a number" */;
+			buildPhases = (
+				2B940F4D273EF72500274FCD /* Sources */,
+				2B940F4E273EF72500274FCD /* Frameworks */,
+				2B940F4F273EF72500274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "display the pattern like right angle triangle with a number";
+			productName = "display the pattern like right angle triangle with a number";
+			productReference = 2B940F51273EF72500274FCD /* display the pattern like right angle triangle with a number */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F5B273F56E300274FCD /* Rough Code */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F60273F56E300274FCD /* Build configuration list for PBXNativeTarget "Rough Code" */;
+			buildPhases = (
+				2B940F58273F56E300274FCD /* Sources */,
+				2B940F59273F56E300274FCD /* Frameworks */,
+				2B940F5A273F56E300274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Rough Code";
+			productName = "Rough Code";
+			productReference = 2B940F5C273F56E300274FCD /* Rough Code */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F66273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F6B273F5F1900274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like right angle triangle with a number which will repeat a number in a row" */;
+			buildPhases = (
+				2B940F63273F5F1900274FCD /* Sources */,
+				2B940F64273F5F1900274FCD /* Frameworks */,
+				2B940F65273F5F1900274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "make such a pattern like right angle triangle with a number which will repeat a number in a row";
+			productName = "make such a pattern like right angle triangle with a number which will repeat a number in a row";
+			productReference = 2B940F67273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F71273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F76273F67B400274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like right angle triangle with number increased by 1" */;
+			buildPhases = (
+				2B940F6E273F67B400274FCD /* Sources */,
+				2B940F6F273F67B400274FCD /* Frameworks */,
+				2B940F70273F67B400274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "make such a pattern like right angle triangle with number increased by 1";
+			productName = "make such a pattern like right angle triangle with number increased by 1";
+			productReference = 2B940F72273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B940F7C273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B940F81273F766D00274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like a pyramid with numbers increased by 1" */;
+			buildPhases = (
+				2B940F79273F766D00274FCD /* Sources */,
+				2B940F7A273F766D00274FCD /* Frameworks */,
+				2B940F7B273F766D00274FCD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "make such a pattern like a pyramid with numbers increased by 1";
+			productName = "make such a pattern like a pyramid with numbers increased by 1";
+			productReference = 2B940F7D273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BC0AECE273D75CB00943304 /* Loop in C */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BC0AED6273D75CB00943304 /* Build configuration list for PBXNativeTarget "Loop in C" */;
+			buildPhases = (
+				2BC0AECB273D75CB00943304 /* Sources */,
+				2BC0AECC273D75CB00943304 /* Frameworks */,
+				2BC0AECD273D75CB00943304 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Loop in C";
+			productName = "Loop in C";
+			productReference = 2BC0AECF273D75CB00943304 /* Loop in C */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BC0AEDC273D779300943304 /* check whether a no is perfect no or not */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BC0AEE1273D779300943304 /* Build configuration list for PBXNativeTarget "check whether a no is perfect no or not" */;
+			buildPhases = (
+				2BC0AED9273D779300943304 /* Sources */,
+				2BC0AEDA273D779300943304 /* Frameworks */,
+				2BC0AEDB273D779300943304 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "check whether a no is perfect no or not";
+			productName = "check whether a no is perfect no or not";
+			productReference = 2BC0AEDD273D779300943304 /* check whether a no is perfect no or not */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BC0AEE7273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BC0AEEC273D7BA600943304 /* Build configuration list for PBXNativeTarget "CHECKING A NO IS PRIME OR NOT" */;
+			buildPhases = (
+				2BC0AEE4273D7BA600943304 /* Sources */,
+				2BC0AEE5273D7BA600943304 /* Frameworks */,
+				2BC0AEE6273D7BA600943304 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CHECKING A NO IS PRIME OR NOT";
+			productName = "CHECKING A NO IS PRIME OR NOT";
+			productReference = 2BC0AEE8273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BD8F89D274633E0003801A1 /* equilateral triangle using  astric */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BD8F8A4274633E0003801A1 /* Build configuration list for PBXNativeTarget "equilateral triangle using  astric" */;
+			buildPhases = (
+				2BD8F89A274633E0003801A1 /* Sources */,
+				2BD8F89B274633E0003801A1 /* Frameworks */,
+				2BD8F89C274633E0003801A1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "equilateral triangle using  astric";
+			productName = "equilateral triangle using  astric";
+			productReference = 2BD8F89E274633E0003801A1 /* equilateral triangle using  astric */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BD8F8A827463996003801A1 /* questions on pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BD8F8AD27463996003801A1 /* Build configuration list for PBXNativeTarget "questions on pattern" */;
+			buildPhases = (
+				2BD8F8A527463996003801A1 /* Sources */,
+				2BD8F8A627463996003801A1 /* Frameworks */,
+				2BD8F8A727463996003801A1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "questions on pattern";
+			productName = "questions on pattern";
+			productReference = 2BD8F8A927463996003801A1 /* questions on pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BD8F8B3274645C1003801A1 /* question 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BD8F8B8274645C1003801A1 /* Build configuration list for PBXNativeTarget "question 2" */;
+			buildPhases = (
+				2BD8F8B0274645C1003801A1 /* Sources */,
+				2BD8F8B1274645C1003801A1 /* Frameworks */,
+				2BD8F8B2274645C1003801A1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question 2";
+			productName = "question 2";
+			productReference = 2BD8F8B4274645C1003801A1 /* question 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BD8F8BE27464A17003801A1 /* question 3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BD8F8C327464A17003801A1 /* Build configuration list for PBXNativeTarget "question 3" */;
+			buildPhases = (
+				2BD8F8BB27464A17003801A1 /* Sources */,
+				2BD8F8BC27464A17003801A1 /* Frameworks */,
+				2BD8F8BD27464A17003801A1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question 3";
+			productName = "question 3";
+			productReference = 2BD8F8BF27464A17003801A1 /* question 3 */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BD8F8C927464DA4003801A1 /* question 4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BD8F8CE27464DA4003801A1 /* Build configuration list for PBXNativeTarget "question 4" */;
+			buildPhases = (
+				2BD8F8C627464DA4003801A1 /* Sources */,
+				2BD8F8C727464DA4003801A1 /* Frameworks */,
+				2BD8F8C827464DA4003801A1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "question 4";
+			productName = "question 4";
+			productReference = 2BD8F8CA27464DA4003801A1 /* question 4 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2BC0AEC7273D75CB00943304 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					2B11BB9A2748AF14005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBA52748B0B5005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBB02748B72C005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBBB2748B99B005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBC62748BA62005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBD12748BBCB005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBDC2748C0A9005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B11BBE72748FA1A005B389D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B2310C22744E1E400A54FBD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B2310CD2744E2DD00A54FBD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B2310D82745105E00A54FBD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B2BBF3B273D806B0034F88A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B2BBF4F273D80A20034F88A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B31EA6A27410DFF00DCBD69 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B31EA7527410FB500DCBD69 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B55BE99275934B7004AFD27 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B55BEA42759D0C4004AFD27 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B684B52274B9C3D00D593B0 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B684B5D274B9C5900D593B0 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B7843EB277B85220098DB42 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B7843F6277B91FE0098DB42 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B784401277BA1EF0098DB42 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B7B3964274241AE0016D8C6 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940ECE273E73DA00274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940ED9273E79F700274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940EE4273E9F8C00274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940EF8273E9FAA00274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F03273EA23C00274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F0E273EA98400274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F19273EAC3600274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F24273EAFB100274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F2F273EC48000274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F3A273ECB1400274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F45273EEE6700274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F50273EF72500274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F5B273F56E300274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F66273F5F1900274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F71273F67B400274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B940F7C273F766D00274FCD = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BC0AECE273D75CB00943304 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BC0AEDC273D779300943304 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BC0AEE7273D7BA600943304 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BD8F89D274633E0003801A1 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BD8F8A827463996003801A1 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BD8F8B3274645C1003801A1 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BD8F8BE27464A17003801A1 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BD8F8C927464DA4003801A1 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = 2BC0AECA273D75CB00943304 /* Build configuration list for PBXProject "2.LOOP IN C" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2BC0AEC6273D75CB00943304;
+			productRefGroup = 2BC0AED0273D75CB00943304 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2BC0AECE273D75CB00943304 /* Loop in C */,
+				2BC0AEDC273D779300943304 /* check whether a no is perfect no or not */,
+				2BC0AEE7273D7BA600943304 /* CHECKING A NO IS PRIME OR NOT */,
+				2B2BBF3B273D806B0034F88A /* DISPLAY DIGITS OF A NOS. IN REVERSE ORDER */,
+				2B2BBF4F273D80A20034F88A /* DISPLAY DIGITS OF NO IN REVERSE ORDER */,
+				2B940ECE273E73DA00274FCD /* Cheacking a no is Amstrong no or not */,
+				2B940ED9273E79F700274FCD /* table of a no */,
+				2B940EE4273E9F8C00274FCD /* comm */,
+				2B940EF8273E9FAA00274FCD /* Reverse of a no */,
+				2B940F03273EA23C00274FCD /* Display a no in words */,
+				2B940F0E273EA98400274FCD /* Find the GDC of 2 nos */,
+				2B940F19273EAC3600274FCD /* Reed n nos from the keyboard and print their sum and average */,
+				2B940F24273EAFB100274FCD /* display the cube of the number upto given an integer */,
+				2B940F2F273EC48000274FCD /* display the multipliaction table vertically from 1 to n */,
+				2B940F3A273ECB1400274FCD /* display the n terms of odd natural number and their sum . */,
+				2B940F45273EEE6700274FCD /* display the pattern like right angle triangle using an asterisk */,
+				2B940F50273EF72500274FCD /* display the pattern like right angle triangle with a number */,
+				2B940F5B273F56E300274FCD /* Rough Code */,
+				2B940F66273F5F1900274FCD /* make such a pattern like right angle triangle with a number which will repeat a number in a row */,
+				2B940F71273F67B400274FCD /* make such a pattern like right angle triangle with number increased by 1 */,
+				2B940F7C273F766D00274FCD /* make such a pattern like a pyramid with numbers increased by 1 */,
+				2B31EA6A27410DFF00DCBD69 /* find the factorial of a no. */,
+				2B31EA7527410FB500DCBD69 /* n  terms of even natural no and their sum */,
+				2B7B3964274241AE0016D8C6 /* make such a pattern like a pyramid with a number which will repeat the number in the same row */,
+				2B2310C22744E1E400A54FBD /* write a program in for right angled triangle */,
+				2B2310CD2744E2DD00A54FBD /* write a program for 2 side pyramid */,
+				2B2310D82745105E00A54FBD /* write a program in c forming a triangle of using astric */,
+				2BD8F89D274633E0003801A1 /* equilateral triangle using  astric */,
+				2BD8F8A827463996003801A1 /* questions on pattern */,
+				2BD8F8B3274645C1003801A1 /* question 2 */,
+				2BD8F8BE27464A17003801A1 /* question 3 */,
+				2BD8F8C927464DA4003801A1 /* question 4 */,
+				2B11BB9A2748AF14005B389D /* question 5 */,
+				2B11BBA52748B0B5005B389D /* check a no is armstrong no or not */,
+				2B11BBB02748B72C005B389D /* find the reverse of a no */,
+				2B11BBBB2748B99B005B389D /* find the sum of digit of a no */,
+				2B11BBC62748BA62005B389D /* reed no from user and find sum and average */,
+				2B11BBD12748BBCB005B389D /* find factorial of no */,
+				2B11BBDC2748C0A9005B389D /* find fact using while */,
+				2B11BBE72748FA1A005B389D /* question on astric loop spc in between loop */,
+				2B684B52274B9C3D00D593B0 /* question at class */,
+				2B684B5D274B9C5900D593B0 /* question at class. */,
+				2B55BE99275934B7004AFD27 /* hollow square */,
+				2B55BEA42759D0C4004AFD27 /* mst 1 */,
+				2B7843EB277B85220098DB42 /* armstrong no between 2 no */,
+				2B7843F6277B91FE0098DB42 /* Write a program to search an element from an array. */,
+				2B784401277BA1EF0098DB42 /* PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement. */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2B2BBF3A273D806B0034F88A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940EE3273E9F8C00274FCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B11BB972748AF14005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BB9E2748AF14005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBA22748B0B5005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBA92748B0B5005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBAD2748B72C005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBB42748B72C005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBB82748B99B005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBBF2748B99B005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBC32748BA62005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBCA2748BA62005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBCE2748BBCB005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBD52748BBCB005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBD92748C0A9005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBE02748C0A9005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B11BBE42748FA1A005B389D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B11BBEB2748FA1A005B389D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310BF2744E1E400A54FBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B2310C62744E1E400A54FBD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310CA2744E2DD00A54FBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B2310D12744E2DD00A54FBD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2310D52745105E00A54FBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B2310DC2745105E00A54FBD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2BBF38273D806B0034F88A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B2BBF4C273D80A20034F88A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B2BBF53273D80A20034F88A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B31EA6727410DFF00DCBD69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B31EA6E27410DFF00DCBD69 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B31EA7227410FB500DCBD69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B31EA7927410FB500DCBD69 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B55BE96275934B7004AFD27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B55BE9D275934B7004AFD27 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B55BEA12759D0C4004AFD27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B55BEA82759D0C4004AFD27 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B684B4F274B9C3D00D593B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B684B5A274B9C5900D593B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B684B61274B9C5900D593B0 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843E8277B85220098DB42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7843EF277B85220098DB42 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843F3277B91FE0098DB42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7843FA277B91FE0098DB42 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7843FE277BA1EF0098DB42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B784405277BA1EF0098DB42 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7B3961274241AE0016D8C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7B3968274241AE0016D8C6 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940ECB273E73DA00274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940ED2273E73DA00274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940ED6273E79F700274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940EDD273E79F700274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940EE1273E9F8C00274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940EF5273E9FAA00274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940EFC273E9FAA00274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F00273EA23C00274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F07273EA23C00274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F0B273EA98400274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F12273EA98400274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F16273EAC3600274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F1D273EAC3600274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F21273EAFB100274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F28273EAFB100274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F2C273EC48000274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F33273EC48000274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F37273ECB1400274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F3E273ECB1400274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F42273EEE6700274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F49273EEE6700274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F4D273EF72500274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F54273EF72500274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F58273F56E300274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F5F273F56E300274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F63273F5F1900274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F6A273F5F1900274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F6E273F67B400274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B940F79273F766D00274FCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B940F80273F766D00274FCD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AECB273D75CB00943304 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BC0AED3273D75CB00943304 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AED9273D779300943304 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BC0AEE0273D779300943304 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC0AEE4273D7BA600943304 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BC0AEEB273D7BA600943304 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F89A274633E0003801A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BD8F8A1274633E0003801A1 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8A527463996003801A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BD8F8AC27463996003801A1 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8B0274645C1003801A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BD8F8B7274645C1003801A1 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8BB27464A17003801A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BD8F8C227464A17003801A1 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BD8F8C627464DA4003801A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BD8F8CD27464DA4003801A1 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2B11BB9F2748AF14005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBA02748AF14005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBAB2748B0B5005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBAC2748B0B5005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBB62748B72C005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBB72748B72C005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBC12748B99B005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBC22748B99B005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBCC2748BA62005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBCD2748BA62005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBD72748BBCB005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBD82748BBCB005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBE22748C0A9005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBE32748C0A9005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B11BBED2748FA1A005B389D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B11BBEE2748FA1A005B389D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B2310C82744E1E400A54FBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B2310C92744E1E400A54FBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B2310D32744E2DD00A54FBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B2310D42744E2DD00A54FBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B2310DE2745105E00A54FBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B2310DF2745105E00A54FBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B2BBF49273D806B0034F88A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER/DISPLAY_DIGITS_OF_A_NOS__IN_REVERSE_ORDER.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ANSHU.DISPLAY-DIGITS-OF-A-NOS--IN-REVERSE-ORDER";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		2B2BBF4A273D806B0034F88A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER/DISPLAY_DIGITS_OF_A_NOS__IN_REVERSE_ORDER.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ANSHU.DISPLAY-DIGITS-OF-A-NOS--IN-REVERSE-ORDER";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		2B2BBF55273D80A20034F88A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B2BBF56273D80A20034F88A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B31EA6F27410DFF00DCBD69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B31EA7027410DFF00DCBD69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B31EA7B27410FB500DCBD69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B31EA7C27410FB500DCBD69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B55BE9E275934B7004AFD27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B55BE9F275934B7004AFD27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B55BEAA2759D0C4004AFD27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B55BEAB2759D0C4004AFD27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B684B57274B9C3D00D593B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B684B58274B9C3D00D593B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B684B63274B9C5900D593B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B684B64274B9C5900D593B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7843F0277B85220098DB42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7843F1277B85220098DB42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7843FC277B91FE0098DB42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7843FD277B91FE0098DB42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B784407277BA1EF0098DB42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B784408277BA1EF0098DB42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7B3969274241AE0016D8C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7B396A274241AE0016D8C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940ED3273E73DA00274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940ED4273E73DA00274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940EDF273E79F700274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940EE0273E79F700274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940EF3273E9F8C00274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = comm/comm.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = comm/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = comm;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ANSHU.comm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		2B940EF4273E9F8C00274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = comm/comm.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = comm/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = comm;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ANSHU.comm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		2B940EFE273E9FAA00274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940EFF273E9FAA00274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F09273EA23C00274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F0A273EA23C00274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F14273EA98400274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F15273EA98400274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F1F273EAC3600274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F20273EAC3600274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F2A273EAFB100274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F2B273EAFB100274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F35273EC48000274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F36273EC48000274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F40273ECB1400274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F41273ECB1400274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F4B273EEE6700274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F4C273EEE6700274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F56273EF72500274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F57273EF72500274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F61273F56E300274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F62273F56E300274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F6C273F5F1900274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F6D273F5F1900274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F77273F67B400274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F78273F67B400274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B940F82273F766D00274FCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B940F83273F766D00274FCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BC0AED4273D75CB00943304 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2BC0AED5273D75CB00943304 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2BC0AED7273D75CB00943304 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BC0AED8273D75CB00943304 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BC0AEE2273D779300943304 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BC0AEE3273D779300943304 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BC0AEED273D7BA600943304 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BC0AEEE273D7BA600943304 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BD8F8A2274633E0003801A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BD8F8A3274633E0003801A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BD8F8AE27463996003801A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BD8F8AF27463996003801A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BD8F8B9274645C1003801A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BD8F8BA274645C1003801A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BD8F8C427464A17003801A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BD8F8C527464A17003801A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BD8F8CF27464DA4003801A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BD8F8D027464DA4003801A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B11BBA12748AF14005B389D /* Build configuration list for PBXNativeTarget "question 5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BB9F2748AF14005B389D /* Debug */,
+				2B11BBA02748AF14005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBAA2748B0B5005B389D /* Build configuration list for PBXNativeTarget "check a no is armstrong no or not" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBAB2748B0B5005B389D /* Debug */,
+				2B11BBAC2748B0B5005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBB52748B72C005B389D /* Build configuration list for PBXNativeTarget "find the reverse of a no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBB62748B72C005B389D /* Debug */,
+				2B11BBB72748B72C005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBC02748B99B005B389D /* Build configuration list for PBXNativeTarget "find the sum of digit of a no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBC12748B99B005B389D /* Debug */,
+				2B11BBC22748B99B005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBCB2748BA62005B389D /* Build configuration list for PBXNativeTarget "reed no from user and find sum and average" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBCC2748BA62005B389D /* Debug */,
+				2B11BBCD2748BA62005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBD62748BBCB005B389D /* Build configuration list for PBXNativeTarget "find factorial of no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBD72748BBCB005B389D /* Debug */,
+				2B11BBD82748BBCB005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBE12748C0A9005B389D /* Build configuration list for PBXNativeTarget "find fact using while" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBE22748C0A9005B389D /* Debug */,
+				2B11BBE32748C0A9005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B11BBEC2748FA1A005B389D /* Build configuration list for PBXNativeTarget "question on astric loop spc in between loop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B11BBED2748FA1A005B389D /* Debug */,
+				2B11BBEE2748FA1A005B389D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B2310C72744E1E400A54FBD /* Build configuration list for PBXNativeTarget "write a program in for right angled triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B2310C82744E1E400A54FBD /* Debug */,
+				2B2310C92744E1E400A54FBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B2310D22744E2DD00A54FBD /* Build configuration list for PBXNativeTarget "write a program for 2 side pyramid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B2310D32744E2DD00A54FBD /* Debug */,
+				2B2310D42744E2DD00A54FBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B2310DD2745105E00A54FBD /* Build configuration list for PBXNativeTarget "write a program in c forming a triangle of using astric" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B2310DE2745105E00A54FBD /* Debug */,
+				2B2310DF2745105E00A54FBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B2BBF4B273D806B0034F88A /* Build configuration list for PBXNativeTarget "DISPLAY DIGITS OF A NOS. IN REVERSE ORDER" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B2BBF49273D806B0034F88A /* Debug */,
+				2B2BBF4A273D806B0034F88A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B2BBF54273D80A20034F88A /* Build configuration list for PBXNativeTarget "DISPLAY DIGITS OF NO IN REVERSE ORDER" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B2BBF55273D80A20034F88A /* Debug */,
+				2B2BBF56273D80A20034F88A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B31EA7127410DFF00DCBD69 /* Build configuration list for PBXNativeTarget "find the factorial of a no." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B31EA6F27410DFF00DCBD69 /* Debug */,
+				2B31EA7027410DFF00DCBD69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B31EA7A27410FB500DCBD69 /* Build configuration list for PBXNativeTarget "n  terms of even natural no and their sum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B31EA7B27410FB500DCBD69 /* Debug */,
+				2B31EA7C27410FB500DCBD69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B55BEA0275934B7004AFD27 /* Build configuration list for PBXNativeTarget "hollow square" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B55BE9E275934B7004AFD27 /* Debug */,
+				2B55BE9F275934B7004AFD27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B55BEA92759D0C4004AFD27 /* Build configuration list for PBXNativeTarget "mst 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B55BEAA2759D0C4004AFD27 /* Debug */,
+				2B55BEAB2759D0C4004AFD27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B684B59274B9C3D00D593B0 /* Build configuration list for PBXNativeTarget "question at class" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B684B57274B9C3D00D593B0 /* Debug */,
+				2B684B58274B9C3D00D593B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B684B62274B9C5900D593B0 /* Build configuration list for PBXNativeTarget "question at class." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B684B63274B9C5900D593B0 /* Debug */,
+				2B684B64274B9C5900D593B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7843F2277B85220098DB42 /* Build configuration list for PBXNativeTarget "armstrong no between 2 no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7843F0277B85220098DB42 /* Debug */,
+				2B7843F1277B85220098DB42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7843FB277B91FE0098DB42 /* Build configuration list for PBXNativeTarget "Write a program to search an element from an array." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7843FC277B91FE0098DB42 /* Debug */,
+				2B7843FD277B91FE0098DB42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B784406277BA1EF0098DB42 /* Build configuration list for PBXNativeTarget "PROGRAM CODE : PROGRAM CODE : PROGRAM CODE : Write a program to perform various matrix operations Addition, Subtraction, Multiplication, Transpose using switch-case statement." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B784407277BA1EF0098DB42 /* Debug */,
+				2B784408277BA1EF0098DB42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7B396B274241AE0016D8C6 /* Build configuration list for PBXNativeTarget "make such a pattern like a pyramid with a number which will repeat the number in the same row" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7B3969274241AE0016D8C6 /* Debug */,
+				2B7B396A274241AE0016D8C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940ED5273E73DA00274FCD /* Build configuration list for PBXNativeTarget "Cheacking a no is Amstrong no or not" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940ED3273E73DA00274FCD /* Debug */,
+				2B940ED4273E73DA00274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940EDE273E79F700274FCD /* Build configuration list for PBXNativeTarget "table of a no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940EDF273E79F700274FCD /* Debug */,
+				2B940EE0273E79F700274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940EF2273E9F8C00274FCD /* Build configuration list for PBXNativeTarget "comm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940EF3273E9F8C00274FCD /* Debug */,
+				2B940EF4273E9F8C00274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940EFD273E9FAA00274FCD /* Build configuration list for PBXNativeTarget "Reverse of a no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940EFE273E9FAA00274FCD /* Debug */,
+				2B940EFF273E9FAA00274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F08273EA23C00274FCD /* Build configuration list for PBXNativeTarget "Display a no in words" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F09273EA23C00274FCD /* Debug */,
+				2B940F0A273EA23C00274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F13273EA98400274FCD /* Build configuration list for PBXNativeTarget "Find the GDC of 2 nos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F14273EA98400274FCD /* Debug */,
+				2B940F15273EA98400274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F1E273EAC3600274FCD /* Build configuration list for PBXNativeTarget "Reed n nos from the keyboard and print their sum and average" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F1F273EAC3600274FCD /* Debug */,
+				2B940F20273EAC3600274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F29273EAFB100274FCD /* Build configuration list for PBXNativeTarget "display the cube of the number upto given an integer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F2A273EAFB100274FCD /* Debug */,
+				2B940F2B273EAFB100274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F34273EC48000274FCD /* Build configuration list for PBXNativeTarget "display the multipliaction table vertically from 1 to n" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F35273EC48000274FCD /* Debug */,
+				2B940F36273EC48000274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F3F273ECB1400274FCD /* Build configuration list for PBXNativeTarget "display the n terms of odd natural number and their sum ." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F40273ECB1400274FCD /* Debug */,
+				2B940F41273ECB1400274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F4A273EEE6700274FCD /* Build configuration list for PBXNativeTarget "display the pattern like right angle triangle using an asterisk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F4B273EEE6700274FCD /* Debug */,
+				2B940F4C273EEE6700274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F55273EF72500274FCD /* Build configuration list for PBXNativeTarget "display the pattern like right angle triangle with a number" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F56273EF72500274FCD /* Debug */,
+				2B940F57273EF72500274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F60273F56E300274FCD /* Build configuration list for PBXNativeTarget "Rough Code" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F61273F56E300274FCD /* Debug */,
+				2B940F62273F56E300274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F6B273F5F1900274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like right angle triangle with a number which will repeat a number in a row" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F6C273F5F1900274FCD /* Debug */,
+				2B940F6D273F5F1900274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F76273F67B400274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like right angle triangle with number increased by 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F77273F67B400274FCD /* Debug */,
+				2B940F78273F67B400274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B940F81273F766D00274FCD /* Build configuration list for PBXNativeTarget "make such a pattern like a pyramid with numbers increased by 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B940F82273F766D00274FCD /* Debug */,
+				2B940F83273F766D00274FCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BC0AECA273D75CB00943304 /* Build configuration list for PBXProject "2.LOOP IN C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC0AED4273D75CB00943304 /* Debug */,
+				2BC0AED5273D75CB00943304 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BC0AED6273D75CB00943304 /* Build configuration list for PBXNativeTarget "Loop in C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC0AED7273D75CB00943304 /* Debug */,
+				2BC0AED8273D75CB00943304 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BC0AEE1273D779300943304 /* Build configuration list for PBXNativeTarget "check whether a no is perfect no or not" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC0AEE2273D779300943304 /* Debug */,
+				2BC0AEE3273D779300943304 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BC0AEEC273D7BA600943304 /* Build configuration list for PBXNativeTarget "CHECKING A NO IS PRIME OR NOT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC0AEED273D7BA600943304 /* Debug */,
+				2BC0AEEE273D7BA600943304 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BD8F8A4274633E0003801A1 /* Build configuration list for PBXNativeTarget "equilateral triangle using  astric" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BD8F8A2274633E0003801A1 /* Debug */,
+				2BD8F8A3274633E0003801A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BD8F8AD27463996003801A1 /* Build configuration list for PBXNativeTarget "questions on pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BD8F8AE27463996003801A1 /* Debug */,
+				2BD8F8AF27463996003801A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BD8F8B8274645C1003801A1 /* Build configuration list for PBXNativeTarget "question 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BD8F8B9274645C1003801A1 /* Debug */,
+				2BD8F8BA274645C1003801A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BD8F8C327464A17003801A1 /* Build configuration list for PBXNativeTarget "question 3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BD8F8C427464A17003801A1 /* Debug */,
+				2BD8F8C527464A17003801A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BD8F8CE27464DA4003801A1 /* Build configuration list for PBXNativeTarget "question 4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BD8F8CF27464DA4003801A1 /* Debug */,
+				2BD8F8D027464DA4003801A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2BC0AEC7273D75CB00943304 /* Project object */;
+}

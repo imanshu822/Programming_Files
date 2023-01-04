@@ -1,0 +1,114 @@
+
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+    color: #fff;
+}
+h1{
+    font-family: "Open Sans" ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #000;
+}
+p{
+    color: #8f8f8f;
+}
+
+/* Navigation bar */
+
+.navbar{
+    padding-bottom: 0 4.5rem;
+}
+.margin-for-tindog{
+    margin-right: 200px;
+}
+.navbar-brand{
+    color: white;
+    font-family:"ubuntu";
+    font-size: 2.7rem;
+    font-weight: bold;
+    margin-right: 100px;
+  
+}
+.nev-item{
+    padding: 0 18px;
+
+}
+.nev-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+/* Download button */
+.download-button{
+    margin-top: 50px;
+    margin-right: 1rem;
+}
+
+/* Title */
+.title-image{
+    width: 60%;
+    transform: rotate(15deg);
+    margin-top: 100px ;
+    margin-left: 100px;
+}
+/* Features section */
+#features{
+     padding: 7% 15%;
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #ef8172;
+    padding-bottom: 1rem ;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials{
+    background-color: #ef8172;
+    
+    text-align: center;
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing.column{
+    padding: 3% 2%;
+}

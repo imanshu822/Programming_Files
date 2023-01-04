@@ -1,0 +1,31 @@
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.a{
+    background-color: rgb(135, 0, 153);  
+    padding: 20px;
+    border: solid 10px; 
+    margin-left: 0px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.b{
+   background-color: red; 
+    margin-left: 260px; 
+    border: solid 20px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.c{
+    background-color:yellow;
+    margin-left: 500px;
+    border: solid 10px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+}

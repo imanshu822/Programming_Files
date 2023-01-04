@@ -1,0 +1,226 @@
+html, body {
+    font-family: verdana;
+  }
+  
+  .scene {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  
+  .flag {
+    width: 450px;
+    height: 350px;
+    position: relative;
+  }
+  
+  .flag__top {
+    height: 116px;
+    background: #FF8915;
+  }
+  
+  .flag__middle {
+    height: 116px;
+    background: #fff;
+    margin: 5px auto 5px;
+  }
+  
+  .flag__middle-wheel {
+    width: 114px;
+    height: 114px;
+    margin: 0 auto;
+    border: 3px solid #008;
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: 7px;
+  }
+  .flag__middle-wheel:after {
+    content: "";
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 42%;
+    left: 42%;
+    border-radius: 50%;
+    background: #008;
+  }
+  
+  .flag__bottom {
+    height: 116px;
+    background: #148809;
+  }
+  
+  span[class*=wheel-foks] {
+    transform-origin: 0 100%;
+    height: 50%;
+    background: #008;
+    display: inline-block;
+    position: absolute;
+    top: -10px;
+    left: 40%;
+  }
+  
+  span[class*=wheel-foks]::after {
+    content: "";
+    position: absolute;
+    border-top: 28px solid rgba(0, 0, 0, 0);
+    border-bottom: 28px solid rgba(0, 0, 0, 0);
+    border-left: 2px solid #008;
+    border-right: 0;
+    left: 0;
+  }
+  
+  span[class*=wheel-foks]::before {
+    content: "";
+    position: absolute;
+    border-top: 28px solid rgba(0, 0, 0, 0);
+    border-bottom: 28px solid rgba(0, 0, 0, 0);
+    border-left: 0;
+    border-right: 2px solid #008;
+    right: 0;
+  }
+  
+  .flag__wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: -webkit-gradient(linear, 0 -25%, 100% top, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(20%, rgba(255, 255, 255, 0)), color-stop(30%, rgba(0, 0, 0, 0.04)), color-stop(40%, rgba(255, 255, 255, 0.2)), color-stop(60%, rgba(255, 255, 255, 0)), color-stop(65%, rgba(255, 255, 255, 0.2)), color-stop(80%, rgba(0, 0, 0, 0.05)), color-stop(100%, rgba(255, 255, 255, 0)));
+    background-size: 200%;
+    animation: flutter 7s infinite;
+    animation-timing-function: cubic-bezier(0.16, 0.14, 0.82, 0.73);
+  }
+  
+  h1 {
+    background: #2193D6;
+    padding: 20px;
+    text-align: center;
+    font-family: verdana;
+  }
+  h1 span:nth-child(1) {
+    color: #FF8915;
+    text-shadow: 2px 1px 1px #DCD6D0;
+  }
+  h1 span:nth-child(2) {
+    color: #fff;
+    text-shadow: 1px 1px 1px #474D4E;
+  }
+  h1 span:nth-child(3) {
+    color: #148809;
+    text-shadow: 1px 1px 1px #381C0C;
+  }
+  
+  .wheel-foks-1 {
+    transform: translate(10px, 10px) rotate(15deg);
+  }
+  
+  .wheel-foks-2 {
+    transform: translate(10px, 10px) rotate(30deg);
+  }
+  
+  .wheel-foks-3 {
+    transform: translate(10px, 10px) rotate(45deg);
+  }
+  
+  .wheel-foks-4 {
+    transform: translate(10px, 10px) rotate(60deg);
+  }
+  
+  .wheel-foks-5 {
+    transform: translate(10px, 10px) rotate(75deg);
+  }
+  
+  .wheel-foks-6 {
+    transform: translate(10px, 10px) rotate(90deg);
+  }
+  
+  .wheel-foks-7 {
+    transform: translate(10px, 10px) rotate(105deg);
+  }
+  
+  .wheel-foks-8 {
+    transform: translate(10px, 10px) rotate(120deg);
+  }
+  
+  .wheel-foks-9 {
+    transform: translate(10px, 10px) rotate(135deg);
+  }
+  
+  .wheel-foks-10 {
+    transform: translate(10px, 10px) rotate(150deg);
+  }
+  
+  .wheel-foks-11 {
+    transform: translate(10px, 10px) rotate(165deg);
+  }
+  
+  .wheel-foks-12 {
+    transform: translate(10px, 10px) rotate(180deg);
+  }
+  
+  .wheel-foks-13 {
+    transform: translate(10px, 10px) rotate(195deg);
+  }
+  
+  .wheel-foks-14 {
+    transform: translate(10px, 10px) rotate(210deg);
+  }
+  
+  .wheel-foks-15 {
+    transform: translate(10px, 10px) rotate(225deg);
+  }
+  
+  .wheel-foks-16 {
+    transform: translate(10px, 10px) rotate(240deg);
+  }
+  
+  .wheel-foks-17 {
+    transform: translate(10px, 10px) rotate(255deg);
+  }
+  
+  .wheel-foks-18 {
+    transform: translate(10px, 10px) rotate(270deg);
+  }
+  
+  .wheel-foks-19 {
+    transform: translate(10px, 10px) rotate(285deg);
+  }
+  
+  .wheel-foks-20 {
+    transform: translate(10px, 10px) rotate(300deg);
+  }
+  
+  .wheel-foks-21 {
+    transform: translate(10px, 10px) rotate(315deg);
+  }
+  
+  .wheel-foks-22 {
+    transform: translate(10px, 10px) rotate(330deg);
+  }
+  
+  .wheel-foks-23 {
+    transform: translate(10px, 10px) rotate(345deg);
+  }
+  
+  .wheel-foks-24 {
+    transform: translate(10px, 10px) rotate(360deg);
+  }
+  
+  @keyframes flutter {
+    0% {
+      background-position: -200% 0px;
+    }
+    30% {
+      background-position: -60% 5px;
+    }
+    70% {
+      background-position: 70% -5px;
+    }
+    100% {
+      background-position: 200% 0px;
+    }
+  }

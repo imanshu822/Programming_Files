@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(212, 209, 209);
+}
+hr{
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    height: 3px;
+}
+h1,h3{
+    color: rgb(0, 0, 0);
+}
+.tree_img:hover{
+    height: 20%;
+    width: 20%;
+    opacity: 50%;
+}
+.book_img{
+    height: 20%;
+    width: 20%;
+}
+.turn_circular{
+    border-radius: 100%;
+}

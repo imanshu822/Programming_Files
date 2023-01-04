@@ -1,0 +1,1790 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2B02999E276312E400D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B02999D276312E400D352DC /* main.c */; };
+		2B0299AB276313AC00D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B0299AA276313AC00D352DC /* main.c */; };
+		2B0299B62763168300D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B0299B52763168300D352DC /* main.c */; };
+		2B0299C127631AA400D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B0299C027631AA400D352DC /* main.c */; };
+		2B0299CC27631BAD00D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B0299CB27631BAD00D352DC /* main.c */; };
+		2B0299D727631D9800D352DC /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B0299D627631D9800D352DC /* main.c */; };
+		2B447A3A2797FCDB009BEFED /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B447A392797FCDB009BEFED /* main.cpp */; };
+		2B7813702767821E005EDD35 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B78136F2767821E005EDD35 /* main.c */; };
+		2B78137B27678351005EDD35 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B78137A27678351005EDD35 /* main.c */; };
+		2B7813862767AE72005EDD35 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B7813852767AE72005EDD35 /* main.c */; };
+		2B7DCE8F278C8D2100F5574F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B7DCE8E278C8D2100F5574F /* main.c */; };
+		2BA41CDA27A8435C00D85B3A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BA41CD927A8435C00D85B3A /* main.c */; };
+		2BB345E32781AE35006B9598 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BB345E22781AE35006B9598 /* main.c */; };
+		2BB345EE2781B522006B9598 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BB345ED2781B522006B9598 /* main.c */; };
+		2BED01EF27A694750008B374 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2BED01EE27A694750008B374 /* main.cpp */; };
+		2BF95AD1278A94C20006BFA8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BF95AD0278A94C20006BFA8 /* main.c */; };
+		2BF95ADC278B1CA70006BFA8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BF95ADB278B1CA70006BFA8 /* main.c */; };
+		2BFE94B62789850A0093983E /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BFE94B52789850A0093983E /* main.c */; };
+		2BFE94C127898C390093983E /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BFE94C027898C390093983E /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2B029998276312E400D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B0299A6276313AC00D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B0299B12763168300D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B0299BC27631AA400D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B0299C727631BAD00D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B0299D227631D9800D352DC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B447A352797FCDB009BEFED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B78136B2767821E005EDD35 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B78137627678351005EDD35 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B7813812767AE72005EDD35 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B7DCE8A278C8D2100F5574F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BA41CD527A8435C00D85B3A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BB345DE2781AE35006B9598 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BB345E92781B522006B9598 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BED01EA27A694750008B374 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BF95ACC278A94C20006BFA8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BF95AD7278B1CA70006BFA8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BFE94B12789850A0093983E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BFE94BC27898C390093983E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2B02999A276312E400D352DC /* Unit 1 Practical */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Unit 1 Practical"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B02999D276312E400D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B0299A8276313AC00D352DC /* print distance in m, feet,inch and cm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "print distance in m, feet,inch and cm"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B0299AA276313AC00D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B0299B32763168300D352DC /* working of bitwise operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "working of bitwise operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B0299B52763168300D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B0299BE27631AA400D352DC /* find the largest of 3 nos using ternery operator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the largest of 3 nos using ternery operator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B0299C027631AA400D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B0299C927631BAD00D352DC /* check whether entered year is leap or not */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "check whether entered year is leap or not"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B0299CB27631BAD00D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B0299D427631D9800D352DC /* find the roots of a quadratic equation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the roots of a quadratic equation"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B0299D627631D9800D352DC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B447A372797FCDB009BEFED /* focp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = focp; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B447A392797FCDB009BEFED /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2B78136D2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B78136F2767821E005EDD35 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B78137827678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Create a program in C to read 10 numbers from keyboard and find their sum and average."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B78137A27678351005EDD35 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B7813832767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "WAP in C that takes minutes as input, and display the total number of hours and minutes."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B7813852767AE72005EDD35 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B7DCE8C278C8D2100F5574F /* wap to find detarminant of a matrix */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "wap to find detarminant of a matrix"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B7DCE8E278C8D2100F5574F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BA41CD727A8435C00D85B3A /* trailing zero of a factorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "trailing zero of a factorial"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BA41CD927A8435C00D85B3A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BB345E02781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BB345E22781AE35006B9598 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BB345EB2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BB345ED2781B522006B9598 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BED01EC27A694750008B374 /* palindrome no */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "palindrome no"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BED01EE27A694750008B374 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2BF95ACE278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a Program to Find the Largest & Smallest Word in a String."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BF95AD0278A94C20006BFA8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BF95AD9278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BF95ADB278B1CA70006BFA8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BFE94B32789850A0093983E /* Factorial of a Number Using Recursion */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Factorial of a Number Using Recursion"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BFE94B52789850A0093983E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BFE94BE27898C390093983E /* swap of 2 no using call by refrance */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swap of 2 no using call by refrance"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BFE94C027898C390093983E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B029997276312E400D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299A5276313AC00D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299B02763168300D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299BB27631AA400D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299C627631BAD00D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299D127631D9800D352DC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B447A342797FCDB009BEFED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B78136A2767821E005EDD35 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B78137527678351005EDD35 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7813802767AE72005EDD35 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7DCE89278C8D2100F5574F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BA41CD427A8435C00D85B3A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BB345DD2781AE35006B9598 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BB345E82781B522006B9598 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BED01E927A694750008B374 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95ACB278A94C20006BFA8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95AD6278B1CA70006BFA8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94B02789850A0093983E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94BB27898C390093983E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B029991276312E400D352DC = {
+			isa = PBXGroup;
+			children = (
+				2B02999C276312E400D352DC /* Unit 1 Practical */,
+				2B0299A9276313AC00D352DC /* print distance in m, feet,inch and cm */,
+				2B0299B42763168300D352DC /* working of bitwise operator */,
+				2B0299BF27631AA400D352DC /* find the largest of 3 nos using ternery operator */,
+				2B0299CA27631BAD00D352DC /* check whether entered year is leap or not */,
+				2B0299D527631D9800D352DC /* find the roots of a quadratic equation */,
+				2B78136E2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */,
+				2B78137927678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */,
+				2B7813842767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */,
+				2BB345E12781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */,
+				2BB345EC2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */,
+				2BFE94B42789850A0093983E /* Factorial of a Number Using Recursion */,
+				2BFE94BF27898C390093983E /* swap of 2 no using call by refrance */,
+				2BF95ACF278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */,
+				2BF95ADA278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */,
+				2B7DCE8D278C8D2100F5574F /* wap to find detarminant of a matrix */,
+				2B447A382797FCDB009BEFED /* focp */,
+				2BED01ED27A694750008B374 /* palindrome no */,
+				2BA41CD827A8435C00D85B3A /* trailing zero of a factorial */,
+				2B02999B276312E400D352DC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2B02999B276312E400D352DC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B02999A276312E400D352DC /* Unit 1 Practical */,
+				2B0299A8276313AC00D352DC /* print distance in m, feet,inch and cm */,
+				2B0299B32763168300D352DC /* working of bitwise operator */,
+				2B0299BE27631AA400D352DC /* find the largest of 3 nos using ternery operator */,
+				2B0299C927631BAD00D352DC /* check whether entered year is leap or not */,
+				2B0299D427631D9800D352DC /* find the roots of a quadratic equation */,
+				2B78136D2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */,
+				2B78137827678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */,
+				2B7813832767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */,
+				2BB345E02781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */,
+				2BB345EB2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */,
+				2BFE94B32789850A0093983E /* Factorial of a Number Using Recursion */,
+				2BFE94BE27898C390093983E /* swap of 2 no using call by refrance */,
+				2BF95ACE278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */,
+				2BF95AD9278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */,
+				2B7DCE8C278C8D2100F5574F /* wap to find detarminant of a matrix */,
+				2B447A372797FCDB009BEFED /* focp */,
+				2BED01EC27A694750008B374 /* palindrome no */,
+				2BA41CD727A8435C00D85B3A /* trailing zero of a factorial */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2B02999C276312E400D352DC /* Unit 1 Practical */ = {
+			isa = PBXGroup;
+			children = (
+				2B02999D276312E400D352DC /* main.c */,
+			);
+			path = "Unit 1 Practical";
+			sourceTree = "<group>";
+		};
+		2B0299A9276313AC00D352DC /* print distance in m, feet,inch and cm */ = {
+			isa = PBXGroup;
+			children = (
+				2B0299AA276313AC00D352DC /* main.c */,
+			);
+			path = "print distance in m, feet,inch and cm";
+			sourceTree = "<group>";
+		};
+		2B0299B42763168300D352DC /* working of bitwise operator */ = {
+			isa = PBXGroup;
+			children = (
+				2B0299B52763168300D352DC /* main.c */,
+			);
+			path = "working of bitwise operator";
+			sourceTree = "<group>";
+		};
+		2B0299BF27631AA400D352DC /* find the largest of 3 nos using ternery operator */ = {
+			isa = PBXGroup;
+			children = (
+				2B0299C027631AA400D352DC /* main.c */,
+			);
+			path = "find the largest of 3 nos using ternery operator";
+			sourceTree = "<group>";
+		};
+		2B0299CA27631BAD00D352DC /* check whether entered year is leap or not */ = {
+			isa = PBXGroup;
+			children = (
+				2B0299CB27631BAD00D352DC /* main.c */,
+			);
+			path = "check whether entered year is leap or not";
+			sourceTree = "<group>";
+		};
+		2B0299D527631D9800D352DC /* find the roots of a quadratic equation */ = {
+			isa = PBXGroup;
+			children = (
+				2B0299D627631D9800D352DC /* main.c */,
+			);
+			path = "find the roots of a quadratic equation";
+			sourceTree = "<group>";
+		};
+		2B447A382797FCDB009BEFED /* focp */ = {
+			isa = PBXGroup;
+			children = (
+				2B447A392797FCDB009BEFED /* main.cpp */,
+			);
+			path = focp;
+			sourceTree = "<group>";
+		};
+		2B78136E2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */ = {
+			isa = PBXGroup;
+			children = (
+				2B78136F2767821E005EDD35 /* main.c */,
+			);
+			path = "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote.";
+			sourceTree = "<group>";
+		};
+		2B78137927678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */ = {
+			isa = PBXGroup;
+			children = (
+				2B78137A27678351005EDD35 /* main.c */,
+			);
+			path = "Create a program in C to read 10 numbers from keyboard and find their sum and average.";
+			sourceTree = "<group>";
+		};
+		2B7813842767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */ = {
+			isa = PBXGroup;
+			children = (
+				2B7813852767AE72005EDD35 /* main.c */,
+			);
+			path = "WAP in C that takes minutes as input, and display the total number of hours and minutes.";
+			sourceTree = "<group>";
+		};
+		2B7DCE8D278C8D2100F5574F /* wap to find detarminant of a matrix */ = {
+			isa = PBXGroup;
+			children = (
+				2B7DCE8E278C8D2100F5574F /* main.c */,
+			);
+			path = "wap to find detarminant of a matrix";
+			sourceTree = "<group>";
+		};
+		2BA41CD827A8435C00D85B3A /* trailing zero of a factorial */ = {
+			isa = PBXGroup;
+			children = (
+				2BA41CD927A8435C00D85B3A /* main.c */,
+			);
+			path = "trailing zero of a factorial";
+			sourceTree = "<group>";
+		};
+		2BB345E12781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */ = {
+			isa = PBXGroup;
+			children = (
+				2BB345E22781AE35006B9598 /* main.c */,
+			);
+			path = "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?";
+			sourceTree = "<group>";
+		};
+		2BB345EC2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */ = {
+			isa = PBXGroup;
+			children = (
+				2BB345ED2781B522006B9598 /* main.c */,
+			);
+			path = "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user.";
+			sourceTree = "<group>";
+		};
+		2BED01ED27A694750008B374 /* palindrome no */ = {
+			isa = PBXGroup;
+			children = (
+				2BED01EE27A694750008B374 /* main.cpp */,
+			);
+			path = "palindrome no";
+			sourceTree = "<group>";
+		};
+		2BF95ACF278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */ = {
+			isa = PBXGroup;
+			children = (
+				2BF95AD0278A94C20006BFA8 /* main.c */,
+			);
+			path = "Write a Program to Find the Largest & Smallest Word in a String.";
+			sourceTree = "<group>";
+		};
+		2BF95ADA278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */ = {
+			isa = PBXGroup;
+			children = (
+				2BF95ADB278B1CA70006BFA8 /* main.c */,
+			);
+			path = "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE";
+			sourceTree = "<group>";
+		};
+		2BFE94B42789850A0093983E /* Factorial of a Number Using Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				2BFE94B52789850A0093983E /* main.c */,
+			);
+			path = "Factorial of a Number Using Recursion";
+			sourceTree = "<group>";
+		};
+		2BFE94BF27898C390093983E /* swap of 2 no using call by refrance */ = {
+			isa = PBXGroup;
+			children = (
+				2BFE94C027898C390093983E /* main.c */,
+			);
+			path = "swap of 2 no using call by refrance";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B029999276312E400D352DC /* Unit 1 Practical */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299A1276312E400D352DC /* Build configuration list for PBXNativeTarget "Unit 1 Practical" */;
+			buildPhases = (
+				2B029996276312E400D352DC /* Sources */,
+				2B029997276312E400D352DC /* Frameworks */,
+				2B029998276312E400D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Unit 1 Practical";
+			productName = "Unit 1 Practical";
+			productReference = 2B02999A276312E400D352DC /* Unit 1 Practical */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B0299A7276313AC00D352DC /* print distance in m, feet,inch and cm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299AC276313AC00D352DC /* Build configuration list for PBXNativeTarget "print distance in m, feet,inch and cm" */;
+			buildPhases = (
+				2B0299A4276313AC00D352DC /* Sources */,
+				2B0299A5276313AC00D352DC /* Frameworks */,
+				2B0299A6276313AC00D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "print distance in m, feet,inch and cm";
+			productName = "print distance in m, feet,inch and cm";
+			productReference = 2B0299A8276313AC00D352DC /* print distance in m, feet,inch and cm */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B0299B22763168300D352DC /* working of bitwise operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299B72763168300D352DC /* Build configuration list for PBXNativeTarget "working of bitwise operator" */;
+			buildPhases = (
+				2B0299AF2763168300D352DC /* Sources */,
+				2B0299B02763168300D352DC /* Frameworks */,
+				2B0299B12763168300D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "working of bitwise operator";
+			productName = "working of bitwise operator";
+			productReference = 2B0299B32763168300D352DC /* working of bitwise operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B0299BD27631AA400D352DC /* find the largest of 3 nos using ternery operator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299C227631AA400D352DC /* Build configuration list for PBXNativeTarget "find the largest of 3 nos using ternery operator" */;
+			buildPhases = (
+				2B0299BA27631AA400D352DC /* Sources */,
+				2B0299BB27631AA400D352DC /* Frameworks */,
+				2B0299BC27631AA400D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the largest of 3 nos using ternery operator";
+			productName = "find the largest of 3 nos using ternery operator";
+			productReference = 2B0299BE27631AA400D352DC /* find the largest of 3 nos using ternery operator */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B0299C827631BAD00D352DC /* check whether entered year is leap or not */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299CD27631BAD00D352DC /* Build configuration list for PBXNativeTarget "check whether entered year is leap or not" */;
+			buildPhases = (
+				2B0299C527631BAD00D352DC /* Sources */,
+				2B0299C627631BAD00D352DC /* Frameworks */,
+				2B0299C727631BAD00D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "check whether entered year is leap or not";
+			productName = "check whether entered year is leap or not";
+			productReference = 2B0299C927631BAD00D352DC /* check whether entered year is leap or not */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B0299D327631D9800D352DC /* find the roots of a quadratic equation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B0299D827631D9800D352DC /* Build configuration list for PBXNativeTarget "find the roots of a quadratic equation" */;
+			buildPhases = (
+				2B0299D027631D9800D352DC /* Sources */,
+				2B0299D127631D9800D352DC /* Frameworks */,
+				2B0299D227631D9800D352DC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the roots of a quadratic equation";
+			productName = "find the roots of a quadratic equation";
+			productReference = 2B0299D427631D9800D352DC /* find the roots of a quadratic equation */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B447A362797FCDB009BEFED /* focp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B447A3D2797FCDB009BEFED /* Build configuration list for PBXNativeTarget "focp" */;
+			buildPhases = (
+				2B447A332797FCDB009BEFED /* Sources */,
+				2B447A342797FCDB009BEFED /* Frameworks */,
+				2B447A352797FCDB009BEFED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = focp;
+			productName = focp;
+			productReference = 2B447A372797FCDB009BEFED /* focp */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B78136C2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7813732767821E005EDD35 /* Build configuration list for PBXNativeTarget "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote." */;
+			buildPhases = (
+				2B7813692767821E005EDD35 /* Sources */,
+				2B78136A2767821E005EDD35 /* Frameworks */,
+				2B78136B2767821E005EDD35 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote.";
+			productName = "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote.";
+			productReference = 2B78136D2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B78137727678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B78137C27678351005EDD35 /* Build configuration list for PBXNativeTarget "Create a program in C to read 10 numbers from keyboard and find their sum and average." */;
+			buildPhases = (
+				2B78137427678351005EDD35 /* Sources */,
+				2B78137527678351005EDD35 /* Frameworks */,
+				2B78137627678351005EDD35 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Create a program in C to read 10 numbers from keyboard and find their sum and average.";
+			productName = "Create a program in C to read 10 numbers from keyboard and find their sum and average.";
+			productReference = 2B78137827678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B7813822767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7813872767AE72005EDD35 /* Build configuration list for PBXNativeTarget "WAP in C that takes minutes as input, and display the total number of hours and minutes." */;
+			buildPhases = (
+				2B78137F2767AE72005EDD35 /* Sources */,
+				2B7813802767AE72005EDD35 /* Frameworks */,
+				2B7813812767AE72005EDD35 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WAP in C that takes minutes as input, and display the total number of hours and minutes.";
+			productName = "WAP in C that takes minutes as input, and display the total number of hours and minutes.";
+			productReference = 2B7813832767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B7DCE8B278C8D2100F5574F /* wap to find detarminant of a matrix */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B7DCE92278C8D2100F5574F /* Build configuration list for PBXNativeTarget "wap to find detarminant of a matrix" */;
+			buildPhases = (
+				2B7DCE88278C8D2100F5574F /* Sources */,
+				2B7DCE89278C8D2100F5574F /* Frameworks */,
+				2B7DCE8A278C8D2100F5574F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "wap to find detarminant of a matrix";
+			productName = "wap to find detarminant of a matrix";
+			productReference = 2B7DCE8C278C8D2100F5574F /* wap to find detarminant of a matrix */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BA41CD627A8435C00D85B3A /* trailing zero of a factorial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BA41CDD27A8435C00D85B3A /* Build configuration list for PBXNativeTarget "trailing zero of a factorial" */;
+			buildPhases = (
+				2BA41CD327A8435C00D85B3A /* Sources */,
+				2BA41CD427A8435C00D85B3A /* Frameworks */,
+				2BA41CD527A8435C00D85B3A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "trailing zero of a factorial";
+			productName = "trailing zero of a factorial";
+			productReference = 2BA41CD727A8435C00D85B3A /* trailing zero of a factorial */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BB345DF2781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BB345E62781AE35006B9598 /* Build configuration list for PBXNativeTarget "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?" */;
+			buildPhases = (
+				2BB345DC2781AE35006B9598 /* Sources */,
+				2BB345DD2781AE35006B9598 /* Frameworks */,
+				2BB345DE2781AE35006B9598 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?";
+			productName = "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?";
+			productReference = 2BB345E02781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BB345EA2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BB345EF2781B522006B9598 /* Build configuration list for PBXNativeTarget "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user." */;
+			buildPhases = (
+				2BB345E72781B522006B9598 /* Sources */,
+				2BB345E82781B522006B9598 /* Frameworks */,
+				2BB345E92781B522006B9598 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user.";
+			productName = "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user.";
+			productReference = 2BB345EB2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BED01EB27A694750008B374 /* palindrome no */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BED01F227A694750008B374 /* Build configuration list for PBXNativeTarget "palindrome no" */;
+			buildPhases = (
+				2BED01E827A694750008B374 /* Sources */,
+				2BED01E927A694750008B374 /* Frameworks */,
+				2BED01EA27A694750008B374 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "palindrome no";
+			productName = "palindrome no";
+			productReference = 2BED01EC27A694750008B374 /* palindrome no */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BF95ACD278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BF95AD4278A94C20006BFA8 /* Build configuration list for PBXNativeTarget "Write a Program to Find the Largest & Smallest Word in a String." */;
+			buildPhases = (
+				2BF95ACA278A94C20006BFA8 /* Sources */,
+				2BF95ACB278A94C20006BFA8 /* Frameworks */,
+				2BF95ACC278A94C20006BFA8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a Program to Find the Largest & Smallest Word in a String.";
+			productName = "Write a Program to Find the Largest & Smallest Word in a String.";
+			productReference = 2BF95ACE278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BF95AD8278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BF95ADD278B1CA70006BFA8 /* Build configuration list for PBXNativeTarget "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE" */;
+			buildPhases = (
+				2BF95AD5278B1CA70006BFA8 /* Sources */,
+				2BF95AD6278B1CA70006BFA8 /* Frameworks */,
+				2BF95AD7278B1CA70006BFA8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE";
+			productName = "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE";
+			productReference = 2BF95AD9278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BFE94B22789850A0093983E /* Factorial of a Number Using Recursion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BFE94B92789850A0093983E /* Build configuration list for PBXNativeTarget "Factorial of a Number Using Recursion" */;
+			buildPhases = (
+				2BFE94AF2789850A0093983E /* Sources */,
+				2BFE94B02789850A0093983E /* Frameworks */,
+				2BFE94B12789850A0093983E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Factorial of a Number Using Recursion";
+			productName = "Factorial of a Number Using Recursion";
+			productReference = 2BFE94B32789850A0093983E /* Factorial of a Number Using Recursion */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BFE94BD27898C390093983E /* swap of 2 no using call by refrance */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BFE94C227898C390093983E /* Build configuration list for PBXNativeTarget "swap of 2 no using call by refrance" */;
+			buildPhases = (
+				2BFE94BA27898C390093983E /* Sources */,
+				2BFE94BB27898C390093983E /* Frameworks */,
+				2BFE94BC27898C390093983E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "swap of 2 no using call by refrance";
+			productName = "swap of 2 no using call by refrance";
+			productReference = 2BFE94BE27898C390093983E /* swap of 2 no using call by refrance */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2B029992276312E400D352DC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					2B029999276312E400D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B0299A7276313AC00D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B0299B22763168300D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B0299BD27631AA400D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B0299C827631BAD00D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B0299D327631D9800D352DC = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B447A362797FCDB009BEFED = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2B78136C2767821E005EDD35 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B78137727678351005EDD35 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B7813822767AE72005EDD35 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B7DCE8B278C8D2100F5574F = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BA41CD627A8435C00D85B3A = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BB345DF2781AE35006B9598 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BB345EA2781B522006B9598 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BED01EB27A694750008B374 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BF95ACD278A94C20006BFA8 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BF95AD8278B1CA70006BFA8 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BFE94B22789850A0093983E = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BFE94BD27898C390093983E = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 2B029995276312E400D352DC /* Build configuration list for PBXProject "Unit 1 Practical" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2B029991276312E400D352DC;
+			productRefGroup = 2B02999B276312E400D352DC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B029999276312E400D352DC /* Unit 1 Practical */,
+				2B0299A7276313AC00D352DC /* print distance in m, feet,inch and cm */,
+				2B0299B22763168300D352DC /* working of bitwise operator */,
+				2B0299BD27631AA400D352DC /* find the largest of 3 nos using ternery operator */,
+				2B0299C827631BAD00D352DC /* check whether entered year is leap or not */,
+				2B0299D327631D9800D352DC /* find the roots of a quadratic equation */,
+				2B78136C2767821E005EDD35 /* WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote. */,
+				2B78137727678351005EDD35 /* Create a program in C to read 10 numbers from keyboard and find their sum and average. */,
+				2B7813822767AE72005EDD35 /* WAP in C that takes minutes as input, and display the total number of hours and minutes. */,
+				2BB345DF2781AE35006B9598 /* Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none? */,
+				2BB345EA2781B522006B9598 /* Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user. */,
+				2BFE94B22789850A0093983E /* Factorial of a Number Using Recursion */,
+				2BFE94BD27898C390093983E /* swap of 2 no using call by refrance */,
+				2BF95ACD278A94C20006BFA8 /* Write a Program to Find the Largest & Smallest Word in a String. */,
+				2BF95AD8278B1CA70006BFA8 /* FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE */,
+				2B7DCE8B278C8D2100F5574F /* wap to find detarminant of a matrix */,
+				2B447A362797FCDB009BEFED /* focp */,
+				2BED01EB27A694750008B374 /* palindrome no */,
+				2BA41CD627A8435C00D85B3A /* trailing zero of a factorial */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B029996276312E400D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B02999E276312E400D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299A4276313AC00D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B0299AB276313AC00D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299AF2763168300D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B0299B62763168300D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299BA27631AA400D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B0299C127631AA400D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299C527631BAD00D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B0299CC27631BAD00D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B0299D027631D9800D352DC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B0299D727631D9800D352DC /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B447A332797FCDB009BEFED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B447A3A2797FCDB009BEFED /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7813692767821E005EDD35 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7813702767821E005EDD35 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B78137427678351005EDD35 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B78137B27678351005EDD35 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B78137F2767AE72005EDD35 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7813862767AE72005EDD35 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B7DCE88278C8D2100F5574F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B7DCE8F278C8D2100F5574F /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BA41CD327A8435C00D85B3A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BA41CDA27A8435C00D85B3A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BB345DC2781AE35006B9598 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BB345E32781AE35006B9598 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BB345E72781B522006B9598 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BB345EE2781B522006B9598 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BED01E827A694750008B374 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BED01EF27A694750008B374 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95ACA278A94C20006BFA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BF95AD1278A94C20006BFA8 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95AD5278B1CA70006BFA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BF95ADC278B1CA70006BFA8 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94AF2789850A0093983E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BFE94B62789850A0093983E /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94BA27898C390093983E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BFE94C127898C390093983E /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2B02999F276312E400D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2B0299A0276312E400D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2B0299A2276312E400D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299A3276312E400D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B0299AD276313AC00D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299AE276313AC00D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B0299B82763168300D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299B92763168300D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B0299C327631AA400D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299C427631AA400D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B0299CE27631BAD00D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299CF27631BAD00D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B0299D927631D9800D352DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B0299DA27631D9800D352DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B447A3B2797FCDB009BEFED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B447A3C2797FCDB009BEFED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7813712767821E005EDD35 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7813722767821E005EDD35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B78137D27678351005EDD35 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B78137E27678351005EDD35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7813882767AE72005EDD35 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7813892767AE72005EDD35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B7DCE90278C8D2100F5574F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B7DCE91278C8D2100F5574F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BA41CDB27A8435C00D85B3A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BA41CDC27A8435C00D85B3A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BB345E42781AE35006B9598 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BB345E52781AE35006B9598 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BB345F02781B522006B9598 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BB345F12781B522006B9598 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BED01F027A694750008B374 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BED01F127A694750008B374 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BF95AD2278A94C20006BFA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BF95AD3278A94C20006BFA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BF95ADE278B1CA70006BFA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BF95ADF278B1CA70006BFA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BFE94B72789850A0093983E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BFE94B82789850A0093983E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BFE94C327898C390093983E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BFE94C427898C390093983E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B029995276312E400D352DC /* Build configuration list for PBXProject "Unit 1 Practical" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B02999F276312E400D352DC /* Debug */,
+				2B0299A0276312E400D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299A1276312E400D352DC /* Build configuration list for PBXNativeTarget "Unit 1 Practical" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299A2276312E400D352DC /* Debug */,
+				2B0299A3276312E400D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299AC276313AC00D352DC /* Build configuration list for PBXNativeTarget "print distance in m, feet,inch and cm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299AD276313AC00D352DC /* Debug */,
+				2B0299AE276313AC00D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299B72763168300D352DC /* Build configuration list for PBXNativeTarget "working of bitwise operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299B82763168300D352DC /* Debug */,
+				2B0299B92763168300D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299C227631AA400D352DC /* Build configuration list for PBXNativeTarget "find the largest of 3 nos using ternery operator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299C327631AA400D352DC /* Debug */,
+				2B0299C427631AA400D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299CD27631BAD00D352DC /* Build configuration list for PBXNativeTarget "check whether entered year is leap or not" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299CE27631BAD00D352DC /* Debug */,
+				2B0299CF27631BAD00D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B0299D827631D9800D352DC /* Build configuration list for PBXNativeTarget "find the roots of a quadratic equation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B0299D927631D9800D352DC /* Debug */,
+				2B0299DA27631D9800D352DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B447A3D2797FCDB009BEFED /* Build configuration list for PBXNativeTarget "focp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B447A3B2797FCDB009BEFED /* Debug */,
+				2B447A3C2797FCDB009BEFED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7813732767821E005EDD35 /* Build configuration list for PBXNativeTarget "WAP  to read the age of a candidate and determine whether it is eligible for casting his/her own vote." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7813712767821E005EDD35 /* Debug */,
+				2B7813722767821E005EDD35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B78137C27678351005EDD35 /* Build configuration list for PBXNativeTarget "Create a program in C to read 10 numbers from keyboard and find their sum and average." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B78137D27678351005EDD35 /* Debug */,
+				2B78137E27678351005EDD35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7813872767AE72005EDD35 /* Build configuration list for PBXNativeTarget "WAP in C that takes minutes as input, and display the total number of hours and minutes." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7813882767AE72005EDD35 /* Debug */,
+				2B7813892767AE72005EDD35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B7DCE92278C8D2100F5574F /* Build configuration list for PBXNativeTarget "wap to find detarminant of a matrix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B7DCE90278C8D2100F5574F /* Debug */,
+				2B7DCE91278C8D2100F5574F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BA41CDD27A8435C00D85B3A /* Build configuration list for PBXNativeTarget "trailing zero of a factorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BA41CDB27A8435C00D85B3A /* Debug */,
+				2BA41CDC27A8435C00D85B3A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BB345E62781AE35006B9598 /* Build configuration list for PBXNativeTarget "Write a program to accept a series in an array from the user. Test the series to find out whether it is an Arithmetic progression, Geometric progression or none?" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BB345E42781AE35006B9598 /* Debug */,
+				2BB345E52781AE35006B9598 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BB345EF2781B522006B9598 /* Build configuration list for PBXNativeTarget "Write a Program in C to find addition of Lower Triangular Elements of a matrix entered by user." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BB345F02781B522006B9598 /* Debug */,
+				2BB345F12781B522006B9598 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BED01F227A694750008B374 /* Build configuration list for PBXNativeTarget "palindrome no" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BED01F027A694750008B374 /* Debug */,
+				2BED01F127A694750008B374 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BF95AD4278A94C20006BFA8 /* Build configuration list for PBXNativeTarget "Write a Program to Find the Largest & Smallest Word in a String." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BF95AD2278A94C20006BFA8 /* Debug */,
+				2BF95AD3278A94C20006BFA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BF95ADD278B1CA70006BFA8 /* Build configuration list for PBXNativeTarget "FIND THE FREQUENCY OF 'THE' IN THE GIVEN SENTENCE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BF95ADE278B1CA70006BFA8 /* Debug */,
+				2BF95ADF278B1CA70006BFA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BFE94B92789850A0093983E /* Build configuration list for PBXNativeTarget "Factorial of a Number Using Recursion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BFE94B72789850A0093983E /* Debug */,
+				2BFE94B82789850A0093983E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BFE94C227898C390093983E /* Build configuration list for PBXNativeTarget "swap of 2 no using call by refrance" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BFE94C327898C390093983E /* Debug */,
+				2BFE94C427898C390093983E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2B029992276312E400D352DC /* Project object */;
+}

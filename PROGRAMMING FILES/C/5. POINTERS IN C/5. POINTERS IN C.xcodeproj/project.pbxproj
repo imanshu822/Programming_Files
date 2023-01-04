@@ -1,0 +1,1033 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2B153E292765F125001F0F75 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B153E282765F125001F0F75 /* main.cpp */; };
+		2B153E362765F2D6001F0F75 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B153E352765F2D6001F0F75 /* main.cpp */; };
+		2B153E412765FD62001F0F75 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B153E402765FD62001F0F75 /* main.cpp */; };
+		2B5566E2277DA0360061391F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B5566E1277DA0360061391F /* main.c */; };
+		2B5566ED277DA2C10061391F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B5566EC277DA2C10061391F /* main.c */; };
+		2B5566F8277DAAC20061391F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B5566F7277DAAC20061391F /* main.c */; };
+		2B6A7CC92780BF9B00F53239 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B6A7CC82780BF9B00F53239 /* main.c */; };
+		2BC8B8EE278EA75B00C24F2D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B8ED278EA75B00C24F2D /* main.c */; };
+		2BF95AE7278C5E160006BFA8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BF95AE6278C5E160006BFA8 /* main.c */; };
+		2BFE94CC2789D0F10093983E /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BFE94CB2789D0F10093983E /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2B153E232765F125001F0F75 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B153E312765F2D6001F0F75 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B153E3C2765FD62001F0F75 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B5566DD277DA0360061391F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B5566E8277DA2C10061391F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B5566F3277DAAC20061391F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B6A7CC42780BF9B00F53239 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BC8B8E9278EA75B00C24F2D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BF95AE2278C5E160006BFA8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BFE94C72789D0F10093983E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2B153E252765F125001F0F75 /* Pointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Pointer; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B153E282765F125001F0F75 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2B153E332765F2D6001F0F75 /* Dynamic Allocation of arrays */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Dynamic Allocation of arrays"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B153E352765F2D6001F0F75 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2B153E3E2765FD62001F0F75 /* Basics of Pointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Basics of Pointer"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B153E402765FD62001F0F75 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2B5566DF277DA0360061391F /* Pointer basics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pointer basics"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B5566E1277DA0360061391F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B5566EA277DA2C10061391F /* Pointer calc... */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pointer calc..."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B5566EC277DA2C10061391F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B5566F5277DAAC20061391F /* pointer basics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "pointer basics"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B5566F7277DAAC20061391F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B6A7CC62780BF9B00F53239 /* Check a no is Armstrong No. or not */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Check a no is Armstrong No. or not"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B6A7CC82780BF9B00F53239 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BC8B8EB278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BC8B8ED278EA75B00C24F2D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BF95AE4278C5E160006BFA8 /* find the sol */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the sol"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BF95AE6278C5E160006BFA8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BFE94C92789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Write a function code that is returning pointer to the larger value out of two passed values."; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BFE94CB2789D0F10093983E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B153E222765F125001F0F75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B153E302765F2D6001F0F75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B153E3B2765FD62001F0F75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566DC277DA0360061391F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566E7277DA2C10061391F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566F2277DAAC20061391F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B6A7CC32780BF9B00F53239 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC8B8E8278EA75B00C24F2D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95AE1278C5E160006BFA8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94C62789D0F10093983E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B153E1C2765F125001F0F75 = {
+			isa = PBXGroup;
+			children = (
+				2B153E3F2765FD62001F0F75 /* Basics of Pointer */,
+				2B153E272765F125001F0F75 /* Pointer */,
+				2B153E342765F2D6001F0F75 /* Dynamic Allocation of arrays */,
+				2B5566E0277DA0360061391F /* Pointer basics */,
+				2B5566EB277DA2C10061391F /* Pointer calc... */,
+				2B5566F6277DAAC20061391F /* pointer basics */,
+				2B6A7CC72780BF9B00F53239 /* Check a no is Armstrong No. or not */,
+				2BFE94CA2789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */,
+				2BF95AE5278C5E160006BFA8 /* find the sol */,
+				2BC8B8EC278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */,
+				2B153E262765F125001F0F75 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2B153E262765F125001F0F75 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B153E252765F125001F0F75 /* Pointer */,
+				2B153E332765F2D6001F0F75 /* Dynamic Allocation of arrays */,
+				2B153E3E2765FD62001F0F75 /* Basics of Pointer */,
+				2B5566DF277DA0360061391F /* Pointer basics */,
+				2B5566EA277DA2C10061391F /* Pointer calc... */,
+				2B5566F5277DAAC20061391F /* pointer basics */,
+				2B6A7CC62780BF9B00F53239 /* Check a no is Armstrong No. or not */,
+				2BFE94C92789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */,
+				2BF95AE4278C5E160006BFA8 /* find the sol */,
+				2BC8B8EB278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2B153E272765F125001F0F75 /* Pointer */ = {
+			isa = PBXGroup;
+			children = (
+				2B153E282765F125001F0F75 /* main.cpp */,
+			);
+			path = Pointer;
+			sourceTree = "<group>";
+		};
+		2B153E342765F2D6001F0F75 /* Dynamic Allocation of arrays */ = {
+			isa = PBXGroup;
+			children = (
+				2B153E352765F2D6001F0F75 /* main.cpp */,
+			);
+			path = "Dynamic Allocation of arrays";
+			sourceTree = "<group>";
+		};
+		2B153E3F2765FD62001F0F75 /* Basics of Pointer */ = {
+			isa = PBXGroup;
+			children = (
+				2B153E402765FD62001F0F75 /* main.cpp */,
+			);
+			path = "Basics of Pointer";
+			sourceTree = "<group>";
+		};
+		2B5566E0277DA0360061391F /* Pointer basics */ = {
+			isa = PBXGroup;
+			children = (
+				2B5566E1277DA0360061391F /* main.c */,
+			);
+			path = "Pointer basics";
+			sourceTree = "<group>";
+		};
+		2B5566EB277DA2C10061391F /* Pointer calc... */ = {
+			isa = PBXGroup;
+			children = (
+				2B5566EC277DA2C10061391F /* main.c */,
+			);
+			path = "Pointer calc...";
+			sourceTree = "<group>";
+		};
+		2B5566F6277DAAC20061391F /* pointer basics */ = {
+			isa = PBXGroup;
+			children = (
+				2B5566F7277DAAC20061391F /* main.c */,
+			);
+			path = "pointer basics";
+			sourceTree = "<group>";
+		};
+		2B6A7CC72780BF9B00F53239 /* Check a no is Armstrong No. or not */ = {
+			isa = PBXGroup;
+			children = (
+				2B6A7CC82780BF9B00F53239 /* main.c */,
+			);
+			path = "Check a no is Armstrong No. or not";
+			sourceTree = "<group>";
+		};
+		2BC8B8EC278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */ = {
+			isa = PBXGroup;
+			children = (
+				2BC8B8ED278EA75B00C24F2D /* main.c */,
+			);
+			path = "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string.";
+			sourceTree = "<group>";
+		};
+		2BF95AE5278C5E160006BFA8 /* find the sol */ = {
+			isa = PBXGroup;
+			children = (
+				2BF95AE6278C5E160006BFA8 /* main.c */,
+			);
+			path = "find the sol";
+			sourceTree = "<group>";
+		};
+		2BFE94CA2789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */ = {
+			isa = PBXGroup;
+			children = (
+				2BFE94CB2789D0F10093983E /* main.c */,
+			);
+			path = "Write a function code that is returning pointer to the larger value out of two passed values.";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B153E242765F125001F0F75 /* Pointer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B153E2C2765F125001F0F75 /* Build configuration list for PBXNativeTarget "Pointer" */;
+			buildPhases = (
+				2B153E212765F125001F0F75 /* Sources */,
+				2B153E222765F125001F0F75 /* Frameworks */,
+				2B153E232765F125001F0F75 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Pointer;
+			productName = Pointer;
+			productReference = 2B153E252765F125001F0F75 /* Pointer */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B153E322765F2D6001F0F75 /* Dynamic Allocation of arrays */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B153E372765F2D6001F0F75 /* Build configuration list for PBXNativeTarget "Dynamic Allocation of arrays" */;
+			buildPhases = (
+				2B153E2F2765F2D6001F0F75 /* Sources */,
+				2B153E302765F2D6001F0F75 /* Frameworks */,
+				2B153E312765F2D6001F0F75 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Dynamic Allocation of arrays";
+			productName = "Dynamic Allocation of arrays";
+			productReference = 2B153E332765F2D6001F0F75 /* Dynamic Allocation of arrays */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B153E3D2765FD62001F0F75 /* Basics of Pointer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B153E422765FD62001F0F75 /* Build configuration list for PBXNativeTarget "Basics of Pointer" */;
+			buildPhases = (
+				2B153E3A2765FD62001F0F75 /* Sources */,
+				2B153E3B2765FD62001F0F75 /* Frameworks */,
+				2B153E3C2765FD62001F0F75 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Basics of Pointer";
+			productName = "Basics of Pointer";
+			productReference = 2B153E3E2765FD62001F0F75 /* Basics of Pointer */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B5566DE277DA0360061391F /* Pointer basics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B5566E5277DA0360061391F /* Build configuration list for PBXNativeTarget "Pointer basics" */;
+			buildPhases = (
+				2B5566DB277DA0360061391F /* Sources */,
+				2B5566DC277DA0360061391F /* Frameworks */,
+				2B5566DD277DA0360061391F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pointer basics";
+			productName = "Pointer basics";
+			productReference = 2B5566DF277DA0360061391F /* Pointer basics */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B5566E9277DA2C10061391F /* Pointer calc... */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B5566EE277DA2C10061391F /* Build configuration list for PBXNativeTarget "Pointer calc..." */;
+			buildPhases = (
+				2B5566E6277DA2C10061391F /* Sources */,
+				2B5566E7277DA2C10061391F /* Frameworks */,
+				2B5566E8277DA2C10061391F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pointer calc...";
+			productName = "Pointer calc...";
+			productReference = 2B5566EA277DA2C10061391F /* Pointer calc... */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B5566F4277DAAC20061391F /* pointer basics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B5566F9277DAAC20061391F /* Build configuration list for PBXNativeTarget "pointer basics" */;
+			buildPhases = (
+				2B5566F1277DAAC20061391F /* Sources */,
+				2B5566F2277DAAC20061391F /* Frameworks */,
+				2B5566F3277DAAC20061391F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "pointer basics";
+			productName = "pointer basics";
+			productReference = 2B5566F5277DAAC20061391F /* pointer basics */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B6A7CC52780BF9B00F53239 /* Check a no is Armstrong No. or not */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B6A7CCC2780BF9B00F53239 /* Build configuration list for PBXNativeTarget "Check a no is Armstrong No. or not" */;
+			buildPhases = (
+				2B6A7CC22780BF9B00F53239 /* Sources */,
+				2B6A7CC32780BF9B00F53239 /* Frameworks */,
+				2B6A7CC42780BF9B00F53239 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Check a no is Armstrong No. or not";
+			productName = "Check a no is Armstrong No. or not";
+			productReference = 2B6A7CC62780BF9B00F53239 /* Check a no is Armstrong No. or not */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BC8B8EA278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BC8B8F1278EA75B00C24F2D /* Build configuration list for PBXNativeTarget "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string." */;
+			buildPhases = (
+				2BC8B8E7278EA75B00C24F2D /* Sources */,
+				2BC8B8E8278EA75B00C24F2D /* Frameworks */,
+				2BC8B8E9278EA75B00C24F2D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string.";
+			productName = "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string.";
+			productReference = 2BC8B8EB278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BF95AE3278C5E160006BFA8 /* find the sol */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BF95AEA278C5E160006BFA8 /* Build configuration list for PBXNativeTarget "find the sol" */;
+			buildPhases = (
+				2BF95AE0278C5E160006BFA8 /* Sources */,
+				2BF95AE1278C5E160006BFA8 /* Frameworks */,
+				2BF95AE2278C5E160006BFA8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the sol";
+			productName = "find the sol";
+			productReference = 2BF95AE4278C5E160006BFA8 /* find the sol */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BFE94C82789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BFE94CF2789D0F10093983E /* Build configuration list for PBXNativeTarget "Write a function code that is returning pointer to the larger value out of two passed values." */;
+			buildPhases = (
+				2BFE94C52789D0F10093983E /* Sources */,
+				2BFE94C62789D0F10093983E /* Frameworks */,
+				2BFE94C72789D0F10093983E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Write a function code that is returning pointer to the larger value out of two passed values.";
+			productName = "Write a function code that is returning pointer to the larger value out of two passed values.";
+			productReference = 2BFE94C92789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2B153E1D2765F125001F0F75 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					2B153E242765F125001F0F75 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B153E322765F2D6001F0F75 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B153E3D2765FD62001F0F75 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B5566DE277DA0360061391F = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B5566E9277DA2C10061391F = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B5566F4277DAAC20061391F = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B6A7CC52780BF9B00F53239 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BC8B8EA278EA75B00C24F2D = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BF95AE3278C5E160006BFA8 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					2BFE94C82789D0F10093983E = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 2B153E202765F125001F0F75 /* Build configuration list for PBXProject "5. POINTERS IN C" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2B153E1C2765F125001F0F75;
+			productRefGroup = 2B153E262765F125001F0F75 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B153E242765F125001F0F75 /* Pointer */,
+				2B153E322765F2D6001F0F75 /* Dynamic Allocation of arrays */,
+				2B153E3D2765FD62001F0F75 /* Basics of Pointer */,
+				2B5566DE277DA0360061391F /* Pointer basics */,
+				2B5566E9277DA2C10061391F /* Pointer calc... */,
+				2B5566F4277DAAC20061391F /* pointer basics */,
+				2B6A7CC52780BF9B00F53239 /* Check a no is Armstrong No. or not */,
+				2BFE94C82789D0F10093983E /* Write a function code that is returning pointer to the larger value out of two passed values. */,
+				2BF95AE3278C5E160006BFA8 /* find the sol */,
+				2BC8B8EA278EA75B00C24F2D /* Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string. */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B153E212765F125001F0F75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B153E292765F125001F0F75 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B153E2F2765F2D6001F0F75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B153E362765F2D6001F0F75 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B153E3A2765FD62001F0F75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B153E412765FD62001F0F75 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566DB277DA0360061391F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B5566E2277DA0360061391F /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566E6277DA2C10061391F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B5566ED277DA2C10061391F /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B5566F1277DAAC20061391F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B5566F8277DAAC20061391F /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B6A7CC22780BF9B00F53239 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B6A7CC92780BF9B00F53239 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC8B8E7278EA75B00C24F2D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BC8B8EE278EA75B00C24F2D /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BF95AE0278C5E160006BFA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BF95AE7278C5E160006BFA8 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFE94C52789D0F10093983E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BFE94CC2789D0F10093983E /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2B153E2A2765F125001F0F75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2B153E2B2765F125001F0F75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2B153E2D2765F125001F0F75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B153E2E2765F125001F0F75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B153E382765F2D6001F0F75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B153E392765F2D6001F0F75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B153E432765FD62001F0F75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B153E442765FD62001F0F75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B5566E3277DA0360061391F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B5566E4277DA0360061391F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B5566EF277DA2C10061391F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B5566F0277DA2C10061391F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B5566FA277DAAC20061391F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B5566FB277DAAC20061391F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B6A7CCA2780BF9B00F53239 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B6A7CCB2780BF9B00F53239 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BC8B8EF278EA75B00C24F2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BC8B8F0278EA75B00C24F2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BF95AE8278C5E160006BFA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BF95AE9278C5E160006BFA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BFE94CD2789D0F10093983E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BFE94CE2789D0F10093983E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B153E202765F125001F0F75 /* Build configuration list for PBXProject "5. POINTERS IN C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B153E2A2765F125001F0F75 /* Debug */,
+				2B153E2B2765F125001F0F75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B153E2C2765F125001F0F75 /* Build configuration list for PBXNativeTarget "Pointer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B153E2D2765F125001F0F75 /* Debug */,
+				2B153E2E2765F125001F0F75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B153E372765F2D6001F0F75 /* Build configuration list for PBXNativeTarget "Dynamic Allocation of arrays" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B153E382765F2D6001F0F75 /* Debug */,
+				2B153E392765F2D6001F0F75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B153E422765FD62001F0F75 /* Build configuration list for PBXNativeTarget "Basics of Pointer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B153E432765FD62001F0F75 /* Debug */,
+				2B153E442765FD62001F0F75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B5566E5277DA0360061391F /* Build configuration list for PBXNativeTarget "Pointer basics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B5566E3277DA0360061391F /* Debug */,
+				2B5566E4277DA0360061391F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B5566EE277DA2C10061391F /* Build configuration list for PBXNativeTarget "Pointer calc..." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B5566EF277DA2C10061391F /* Debug */,
+				2B5566F0277DA2C10061391F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B5566F9277DAAC20061391F /* Build configuration list for PBXNativeTarget "pointer basics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B5566FA277DAAC20061391F /* Debug */,
+				2B5566FB277DAAC20061391F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B6A7CCC2780BF9B00F53239 /* Build configuration list for PBXNativeTarget "Check a no is Armstrong No. or not" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B6A7CCA2780BF9B00F53239 /* Debug */,
+				2B6A7CCB2780BF9B00F53239 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BC8B8F1278EA75B00C24F2D /* Build configuration list for PBXNativeTarget "Write a program to store a character string in block of memory space created by malloc and then modify the same to store a large string." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC8B8EF278EA75B00C24F2D /* Debug */,
+				2BC8B8F0278EA75B00C24F2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BF95AEA278C5E160006BFA8 /* Build configuration list for PBXNativeTarget "find the sol" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BF95AE8278C5E160006BFA8 /* Debug */,
+				2BF95AE9278C5E160006BFA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BFE94CF2789D0F10093983E /* Build configuration list for PBXNativeTarget "Write a function code that is returning pointer to the larger value out of two passed values." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BFE94CD2789D0F10093983E /* Debug */,
+				2BFE94CE2789D0F10093983E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2B153E1D2765F125001F0F75 /* Project object */;
+}

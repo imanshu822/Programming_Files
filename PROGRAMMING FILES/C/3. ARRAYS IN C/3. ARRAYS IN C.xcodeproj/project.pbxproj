@@ -1,0 +1,612 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2B48B1FC2765257600B443DF /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B48B1FB2765257600B443DF /* main.c */; };
+		2B82ED31274E18AC0063BFA6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B82ED30274E18AC0063BFA6 /* main.c */; };
+		2B965574274F83A200E5588A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B965573274F83A200E5588A /* main.c */; };
+		2B96557F274F8A0900E5588A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2B96557E274F8A0900E5588A /* main.c */; };
+		2BFD4DDA275B2D9A00035D81 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 2BFD4DD9275B2D9A00035D81 /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2B48B1F72765257600B443DF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B82ED2B274E18AC0063BFA6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B96556F274F83A200E5588A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2B96557A274F8A0900E5588A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		2BFD4DD5275B2D9A00035D81 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2B48B1F92765257600B443DF /* ROUGH WORK FOR ARRAYS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ROUGH WORK FOR ARRAYS"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B48B1FB2765257600B443DF /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B82ED2D274E18AC0063BFA6 /* Arrays */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Arrays; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B82ED30274E18AC0063BFA6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B965571274F83A200E5588A /* find the all thd elememnts of an arrey */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the all thd elememnts of an arrey"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B965573274F83A200E5588A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2B96557C274F8A0900E5588A /* find the sum of elements of an arrey */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "find the sum of elements of an arrey"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B96557E274F8A0900E5588A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		2BFD4DD7275B2D9A00035D81 /* multiplicaion of  2 arays */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "multiplicaion of  2 arays"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BFD4DD9275B2D9A00035D81 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2B48B1F62765257600B443DF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B82ED2A274E18AC0063BFA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B96556E274F83A200E5588A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B965579274F8A0900E5588A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFD4DD4275B2D9A00035D81 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B48B1FA2765257600B443DF /* ROUGH WORK FOR ARRAYS */ = {
+			isa = PBXGroup;
+			children = (
+				2B48B1FB2765257600B443DF /* main.c */,
+			);
+			path = "ROUGH WORK FOR ARRAYS";
+			sourceTree = "<group>";
+		};
+		2B82ED24274E18AC0063BFA6 = {
+			isa = PBXGroup;
+			children = (
+				2B48B1FA2765257600B443DF /* ROUGH WORK FOR ARRAYS */,
+				2B82ED2F274E18AC0063BFA6 /* Arrays */,
+				2B965572274F83A200E5588A /* find the all thd elememnts of an arrey */,
+				2B96557D274F8A0900E5588A /* find the sum of elements of an arrey */,
+				2BFD4DD8275B2D9A00035D81 /* multiplicaion of  2 arays */,
+				2B82ED2E274E18AC0063BFA6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2B82ED2E274E18AC0063BFA6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B82ED2D274E18AC0063BFA6 /* Arrays */,
+				2B965571274F83A200E5588A /* find the all thd elememnts of an arrey */,
+				2B96557C274F8A0900E5588A /* find the sum of elements of an arrey */,
+				2BFD4DD7275B2D9A00035D81 /* multiplicaion of  2 arays */,
+				2B48B1F92765257600B443DF /* ROUGH WORK FOR ARRAYS */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2B82ED2F274E18AC0063BFA6 /* Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				2B82ED30274E18AC0063BFA6 /* main.c */,
+			);
+			path = Arrays;
+			sourceTree = "<group>";
+		};
+		2B965572274F83A200E5588A /* find the all thd elememnts of an arrey */ = {
+			isa = PBXGroup;
+			children = (
+				2B965573274F83A200E5588A /* main.c */,
+			);
+			path = "find the all thd elememnts of an arrey";
+			sourceTree = "<group>";
+		};
+		2B96557D274F8A0900E5588A /* find the sum of elements of an arrey */ = {
+			isa = PBXGroup;
+			children = (
+				2B96557E274F8A0900E5588A /* main.c */,
+			);
+			path = "find the sum of elements of an arrey";
+			sourceTree = "<group>";
+		};
+		2BFD4DD8275B2D9A00035D81 /* multiplicaion of  2 arays */ = {
+			isa = PBXGroup;
+			children = (
+				2BFD4DD9275B2D9A00035D81 /* main.c */,
+			);
+			path = "multiplicaion of  2 arays";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2B48B1F82765257600B443DF /* ROUGH WORK FOR ARRAYS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B48B1FF2765257600B443DF /* Build configuration list for PBXNativeTarget "ROUGH WORK FOR ARRAYS" */;
+			buildPhases = (
+				2B48B1F52765257600B443DF /* Sources */,
+				2B48B1F62765257600B443DF /* Frameworks */,
+				2B48B1F72765257600B443DF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ROUGH WORK FOR ARRAYS";
+			productName = "ROUGH WORK FOR ARRAYS";
+			productReference = 2B48B1F92765257600B443DF /* ROUGH WORK FOR ARRAYS */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B82ED2C274E18AC0063BFA6 /* Arrays */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B82ED34274E18AC0063BFA6 /* Build configuration list for PBXNativeTarget "Arrays" */;
+			buildPhases = (
+				2B82ED29274E18AC0063BFA6 /* Sources */,
+				2B82ED2A274E18AC0063BFA6 /* Frameworks */,
+				2B82ED2B274E18AC0063BFA6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Arrays;
+			productName = Arrays;
+			productReference = 2B82ED2D274E18AC0063BFA6 /* Arrays */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B965570274F83A200E5588A /* find the all thd elememnts of an arrey */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B965577274F83A200E5588A /* Build configuration list for PBXNativeTarget "find the all thd elememnts of an arrey" */;
+			buildPhases = (
+				2B96556D274F83A200E5588A /* Sources */,
+				2B96556E274F83A200E5588A /* Frameworks */,
+				2B96556F274F83A200E5588A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the all thd elememnts of an arrey";
+			productName = "find the all thd elememnts of an arrey";
+			productReference = 2B965571274F83A200E5588A /* find the all thd elememnts of an arrey */;
+			productType = "com.apple.product-type.tool";
+		};
+		2B96557B274F8A0900E5588A /* find the sum of elements of an arrey */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B965580274F8A0900E5588A /* Build configuration list for PBXNativeTarget "find the sum of elements of an arrey" */;
+			buildPhases = (
+				2B965578274F8A0900E5588A /* Sources */,
+				2B965579274F8A0900E5588A /* Frameworks */,
+				2B96557A274F8A0900E5588A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "find the sum of elements of an arrey";
+			productName = "find the sum of elements of an arrey";
+			productReference = 2B96557C274F8A0900E5588A /* find the sum of elements of an arrey */;
+			productType = "com.apple.product-type.tool";
+		};
+		2BFD4DD6275B2D9A00035D81 /* multiplicaion of  2 arays */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2BFD4DDD275B2D9A00035D81 /* Build configuration list for PBXNativeTarget "multiplicaion of  2 arays" */;
+			buildPhases = (
+				2BFD4DD3275B2D9A00035D81 /* Sources */,
+				2BFD4DD4275B2D9A00035D81 /* Frameworks */,
+				2BFD4DD5275B2D9A00035D81 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "multiplicaion of  2 arays";
+			productName = "multiplicaion of  2 arays";
+			productReference = 2BFD4DD7275B2D9A00035D81 /* multiplicaion of  2 arays */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2B82ED25274E18AC0063BFA6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					2B48B1F82765257600B443DF = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B82ED2C274E18AC0063BFA6 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B965570274F83A200E5588A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2B96557B274F8A0900E5588A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2BFD4DD6275B2D9A00035D81 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = 2B82ED28274E18AC0063BFA6 /* Build configuration list for PBXProject "Arrays" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2B82ED24274E18AC0063BFA6;
+			productRefGroup = 2B82ED2E274E18AC0063BFA6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B82ED2C274E18AC0063BFA6 /* Arrays */,
+				2B965570274F83A200E5588A /* find the all thd elememnts of an arrey */,
+				2B96557B274F8A0900E5588A /* find the sum of elements of an arrey */,
+				2BFD4DD6275B2D9A00035D81 /* multiplicaion of  2 arays */,
+				2B48B1F82765257600B443DF /* ROUGH WORK FOR ARRAYS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B48B1F52765257600B443DF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B48B1FC2765257600B443DF /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B82ED29274E18AC0063BFA6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B82ED31274E18AC0063BFA6 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B96556D274F83A200E5588A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B965574274F83A200E5588A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B965578274F8A0900E5588A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B96557F274F8A0900E5588A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BFD4DD3275B2D9A00035D81 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BFD4DDA275B2D9A00035D81 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2B48B1FD2765257600B443DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B48B1FE2765257600B443DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B82ED32274E18AC0063BFA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2B82ED33274E18AC0063BFA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2B82ED35274E18AC0063BFA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B82ED36274E18AC0063BFA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B965575274F83A200E5588A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B965576274F83A200E5588A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2B965581274F8A0900E5588A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2B965582274F8A0900E5588A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2BFD4DDB275B2D9A00035D81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2BFD4DDC275B2D9A00035D81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B48B1FF2765257600B443DF /* Build configuration list for PBXNativeTarget "ROUGH WORK FOR ARRAYS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B48B1FD2765257600B443DF /* Debug */,
+				2B48B1FE2765257600B443DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B82ED28274E18AC0063BFA6 /* Build configuration list for PBXProject "Arrays" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B82ED32274E18AC0063BFA6 /* Debug */,
+				2B82ED33274E18AC0063BFA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B82ED34274E18AC0063BFA6 /* Build configuration list for PBXNativeTarget "Arrays" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B82ED35274E18AC0063BFA6 /* Debug */,
+				2B82ED36274E18AC0063BFA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B965577274F83A200E5588A /* Build configuration list for PBXNativeTarget "find the all thd elememnts of an arrey" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B965575274F83A200E5588A /* Debug */,
+				2B965576274F83A200E5588A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B965580274F8A0900E5588A /* Build configuration list for PBXNativeTarget "find the sum of elements of an arrey" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B965581274F8A0900E5588A /* Debug */,
+				2B965582274F8A0900E5588A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BFD4DDD275B2D9A00035D81 /* Build configuration list for PBXNativeTarget "multiplicaion of  2 arays" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BFD4DDB275B2D9A00035D81 /* Debug */,
+				2BFD4DDC275B2D9A00035D81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2B82ED25274E18AC0063BFA6 /* Project object */;
+}
